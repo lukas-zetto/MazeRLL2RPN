@@ -1,7 +1,6 @@
 #!/bin/bash
 #SBATCH --job-name=l2rpn_test          # Job name
-#SBATCH --partition=dev_single         # Partition
-#SBATCH --time=00:10:00                # Max runtime
+#SBATCH --partition cpu                #Partition
 #SBATCH --nodes=1                      # Number of nodes
 #SBATCH --ntasks=1                     # Number of tasks
 #SBATCH --cpus-per-task=4              # Number of CPUs
