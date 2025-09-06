@@ -1,0 +1,5772 @@
+[
+    {
+        "LinesCapacityReward": 0.6220265460270707,
+        "__scores": 4321.494140625,
+        "grid_operation_cost": 4321.494140625
+    },
+    {
+        "LinesCapacityReward": 0.6289055937079974,
+        "__scores": 6333.1884765625,
+        "grid_operation_cost": 6333.1884765625
+    },
+    {
+        "LinesCapacityReward": 0.6304710552256595,
+        "__scores": 6203.1611328125,
+        "grid_operation_cost": 6203.1611328125
+    },
+    {
+        "LinesCapacityReward": 0.6347255911878361,
+        "__scores": 4816.7177734375,
+        "grid_operation_cost": 4816.7177734375
+    },
+    {
+        "LinesCapacityReward": 0.6345170133857317,
+        "__scores": 5509.0888671875,
+        "grid_operation_cost": 5509.0888671875
+    },
+    {
+        "LinesCapacityReward": 0.6338326238816785,
+        "__scores": 5628.46044921875,
+        "grid_operation_cost": 5628.46044921875
+    },
+    {
+        "LinesCapacityReward": 0.6344066332745296,
+        "__scores": 5843.27294921875,
+        "grid_operation_cost": 5843.27294921875
+    },
+    {
+        "LinesCapacityReward": 0.6370303656465264,
+        "__scores": 5871.1328125,
+        "grid_operation_cost": 5871.1328125
+    },
+    {
+        "LinesCapacityReward": 0.6391571208994876,
+        "__scores": 6014.18115234375,
+        "grid_operation_cost": 6014.18115234375
+    },
+    {
+        "LinesCapacityReward": 0.644195556640625,
+        "__scores": 6128.62548828125,
+        "grid_operation_cost": 6128.62548828125
+    },
+    {
+        "LinesCapacityReward": 0.6489206949869792,
+        "__scores": 6150.7412109375,
+        "grid_operation_cost": 6150.7412109375
+    },
+    {
+        "LinesCapacityReward": 0.6508515060588879,
+        "__scores": 6087.74658203125,
+        "grid_operation_cost": 6087.74658203125
+    },
+    {
+        "LinesCapacityReward": 0.6547451224378361,
+        "__scores": 6187.32421875,
+        "grid_operation_cost": 6187.32421875
+    },
+    {
+        "LinesCapacityReward": 0.6561538122033561,
+        "__scores": 6200.72216796875,
+        "grid_operation_cost": 6200.72216796875
+    },
+    {
+        "LinesCapacityReward": 0.65737791984312,
+        "__scores": 6262.93603515625,
+        "grid_operation_cost": 6262.93603515625
+    },
+    {
+        "LinesCapacityReward": 0.6554494878297211,
+        "__scores": 6128.64892578125,
+        "grid_operation_cost": 6128.64892578125
+    },
+    {
+        "LinesCapacityReward": 0.6543311662571405,
+        "__scores": 6204.634765625,
+        "grid_operation_cost": 6204.634765625
+    },
+    {
+        "LinesCapacityReward": 0.6516951284100932,
+        "__scores": 6153.2568359375,
+        "grid_operation_cost": 6153.2568359375
+    },
+    {
+        "LinesCapacityReward": 0.6513300249653479,
+        "__scores": 6026.6396484375,
+        "grid_operation_cost": 6026.6396484375
+    },
+    {
+        "LinesCapacityReward": 0.6483484083606351,
+        "__scores": 5972.78466796875,
+        "grid_operation_cost": 5972.78466796875
+    },
+    {
+        "LinesCapacityReward": 0.6499559135847195,
+        "__scores": 5818.32861328125,
+        "grid_operation_cost": 5818.32861328125
+    },
+    {
+        "LinesCapacityReward": 0.6471622015840264,
+        "__scores": 5421.64697265625,
+        "grid_operation_cost": 5421.64697265625
+    },
+    {
+        "LinesCapacityReward": 0.6478716942571825,
+        "__scores": 5243.05859375,
+        "grid_operation_cost": 5243.05859375
+    },
+    {
+        "LinesCapacityReward": 0.6454642511183216,
+        "__scores": 5047.7626953125,
+        "grid_operation_cost": 5047.7626953125
+    },
+    {
+        "LinesCapacityReward": 0.645627667826991,
+        "__scores": 4766.3935546875,
+        "grid_operation_cost": 4766.3935546875
+    },
+    {
+        "LinesCapacityReward": 0.6433126798240087,
+        "__scores": 4549.3203125,
+        "grid_operation_cost": 4549.3203125
+    },
+    {
+        "LinesCapacityReward": 0.646452134655368,
+        "__scores": 4283.5537109375,
+        "grid_operation_cost": 4283.5537109375
+    },
+    {
+        "LinesCapacityReward": 0.6454180645686325,
+        "__scores": 4157.9287109375,
+        "grid_operation_cost": 4157.9287109375
+    },
+    {
+        "LinesCapacityReward": 0.6449149347120716,
+        "__scores": 4048.234375,
+        "grid_operation_cost": 4048.234375
+    },
+    {
+        "LinesCapacityReward": 0.6492526967038391,
+        "__scores": 4007.859130859375,
+        "grid_operation_cost": 4007.859130859375
+    },
+    {
+        "LinesCapacityReward": 0.6500481226110971,
+        "__scores": 3968.442138671875,
+        "grid_operation_cost": 3968.442138671875
+    },
+    {
+        "LinesCapacityReward": 0.6489003089166457,
+        "__scores": 3939.965087890625,
+        "grid_operation_cost": 3939.965087890625
+    },
+    {
+        "LinesCapacityReward": 0.6510245210380965,
+        "__scores": 4044.8955078125,
+        "grid_operation_cost": 4044.8955078125
+    },
+    {
+        "LinesCapacityReward": 0.6547672722929267,
+        "__scores": 4155.85400390625,
+        "grid_operation_cost": 4155.85400390625
+    },
+    {
+        "LinesCapacityReward": 0.6595111149613576,
+        "__scores": 4304.3525390625,
+        "grid_operation_cost": 4304.3525390625
+    },
+    {
+        "LinesCapacityReward": 0.6640044181577621,
+        "__scores": 4588.341796875,
+        "grid_operation_cost": 4588.341796875
+    },
+    {
+        "LinesCapacityReward": 0.6691170969317037,
+        "__scores": 4996.07666015625,
+        "grid_operation_cost": 4996.07666015625
+    },
+    {
+        "LinesCapacityReward": 0.6752759051579301,
+        "__scores": 5546.84326171875,
+        "grid_operation_cost": 5546.84326171875
+    },
+    {
+        "LinesCapacityReward": 0.6814204185239731,
+        "__scores": 6253.337890625,
+        "grid_operation_cost": 6253.337890625
+    },
+    {
+        "LinesCapacityReward": 0.6864183077248195,
+        "__scores": 7256.560546875,
+        "grid_operation_cost": 7256.560546875
+    },
+    {
+        "LinesCapacityReward": 0.6915608888031335,
+        "__scores": 8092.41455078125,
+        "grid_operation_cost": 8092.41455078125
+    },
+    {
+        "LinesCapacityReward": 0.6966800484606015,
+        "__scores": 8931.8134765625,
+        "grid_operation_cost": 8931.8134765625
+    },
+    {
+        "LinesCapacityReward": 0.7023717818721649,
+        "__scores": 9711.4296875,
+        "grid_operation_cost": 9711.4296875
+    },
+    {
+        "LinesCapacityReward": 0.7052241294614731,
+        "__scores": 10614.1923828125,
+        "grid_operation_cost": 10614.1923828125
+    },
+    {
+        "LinesCapacityReward": 0.710592987716839,
+        "__scores": 11419.263671875,
+        "grid_operation_cost": 11419.263671875
+    },
+    {
+        "LinesCapacityReward": 0.7144285222535492,
+        "__scores": 12363.296875,
+        "grid_operation_cost": 12363.296875
+    },
+    {
+        "LinesCapacityReward": 0.7164657756846439,
+        "__scores": 11888.4228515625,
+        "grid_operation_cost": 11888.4228515625
+    },
+    {
+        "LinesCapacityReward": 0.7168523521833523,
+        "__scores": 11118.0224609375,
+        "grid_operation_cost": 11118.0224609375
+    },
+    {
+        "LinesCapacityReward": 0.7140560355237736,
+        "__scores": 10088.0859375,
+        "grid_operation_cost": 10088.0859375
+    },
+    {
+        "LinesCapacityReward": 0.710816885835381,
+        "__scores": 9002.2001953125,
+        "grid_operation_cost": 9002.2001953125
+    },
+    {
+        "LinesCapacityReward": 0.7079748543359901,
+        "__scores": 8200.658203125,
+        "grid_operation_cost": 8200.658203125
+    },
+    {
+        "LinesCapacityReward": 0.7032259048954134,
+        "__scores": 7125.17529296875,
+        "grid_operation_cost": 7125.17529296875
+    },
+    {
+        "LinesCapacityReward": 0.697681139874202,
+        "__scores": 6409.0947265625,
+        "grid_operation_cost": 6409.0947265625
+    },
+    {
+        "LinesCapacityReward": 0.6938526604765205,
+        "__scores": 5393.8857421875,
+        "grid_operation_cost": 5393.8857421875
+    },
+    {
+        "LinesCapacityReward": 0.6899915715699555,
+        "__scores": 4720.5341796875,
+        "grid_operation_cost": 4720.5341796875
+    },
+    {
+        "LinesCapacityReward": 0.6840771500782301,
+        "__scores": 4091.04150390625,
+        "grid_operation_cost": 4091.04150390625
+    },
+    {
+        "LinesCapacityReward": 0.6785130654611896,
+        "__scores": 3842.78759765625,
+        "grid_operation_cost": 3842.78759765625
+    },
+    {
+        "LinesCapacityReward": 0.67648192374937,
+        "__scores": 3580.435546875,
+        "grid_operation_cost": 3580.435546875
+    },
+    {
+        "LinesCapacityReward": 0.6714629921861874,
+        "__scores": 3517.077880859375,
+        "grid_operation_cost": 3517.077880859375
+    },
+    {
+        "LinesCapacityReward": 0.6674968965591923,
+        "__scores": 3364.25927734375,
+        "grid_operation_cost": 3364.25927734375
+    },
+    {
+        "LinesCapacityReward": 0.6655558104156166,
+        "__scores": 3410.10400390625,
+        "grid_operation_cost": 3410.10400390625
+    },
+    {
+        "LinesCapacityReward": 0.6661704688943842,
+        "__scores": 3373.797607421875,
+        "grid_operation_cost": 3373.797607421875
+    },
+    {
+        "LinesCapacityReward": 0.6651465098063152,
+        "__scores": 3443.52880859375,
+        "grid_operation_cost": 3443.52880859375
+    },
+    {
+        "LinesCapacityReward": 0.6667766981227424,
+        "__scores": 3483.213134765625,
+        "grid_operation_cost": 3483.213134765625
+    },
+    {
+        "LinesCapacityReward": 0.6668560069094422,
+        "__scores": 3548.997802734375,
+        "grid_operation_cost": 3548.997802734375
+    },
+    {
+        "LinesCapacityReward": 0.668102510513798,
+        "__scores": 3618.20556640625,
+        "grid_operation_cost": 3618.20556640625
+    },
+    {
+        "LinesCapacityReward": 0.6697772856681579,
+        "__scores": 3679.435302734375,
+        "grid_operation_cost": 3679.435302734375
+    },
+    {
+        "LinesCapacityReward": 0.6714303006408036,
+        "__scores": 3811.992919921875,
+        "grid_operation_cost": 3811.992919921875
+    },
+    {
+        "LinesCapacityReward": 0.673052962108325,
+        "__scores": 3877.992919921875,
+        "grid_operation_cost": 3877.992919921875
+    },
+    {
+        "LinesCapacityReward": 0.6764741302818381,
+        "__scores": 4029.30615234375,
+        "grid_operation_cost": 4029.30615234375
+    },
+    {
+        "LinesCapacityReward": 0.6786071203088249,
+        "__scores": 4137.39794921875,
+        "grid_operation_cost": 4137.39794921875
+    },
+    {
+        "LinesCapacityReward": 0.6814086257770497,
+        "__scores": 4181.02294921875,
+        "grid_operation_cost": 4181.02294921875
+    },
+    {
+        "LinesCapacityReward": 0.6818205720634871,
+        "__scores": 4200.513671875,
+        "grid_operation_cost": 4200.513671875
+    },
+    {
+        "LinesCapacityReward": 0.6810374106130292,
+        "__scores": 4262.91357421875,
+        "grid_operation_cost": 4262.91357421875
+    },
+    {
+        "LinesCapacityReward": 0.6828694702476584,
+        "__scores": 4391.26953125,
+        "grid_operation_cost": 4391.26953125
+    },
+    {
+        "LinesCapacityReward": 0.6800111339938256,
+        "__scores": 4536.29931640625,
+        "grid_operation_cost": 4536.29931640625
+    },
+    {
+        "LinesCapacityReward": 0.6787262373073127,
+        "__scores": 4577.099609375,
+        "grid_operation_cost": 4577.099609375
+    },
+    {
+        "LinesCapacityReward": 0.6767939085601479,
+        "__scores": 4811.87841796875,
+        "grid_operation_cost": 4811.87841796875
+    },
+    {
+        "LinesCapacityReward": 0.6760846414873678,
+        "__scores": 4978.26904296875,
+        "grid_operation_cost": 4978.26904296875
+    },
+    {
+        "LinesCapacityReward": 0.6753711495348202,
+        "__scores": 5383.1328125,
+        "grid_operation_cost": 5383.1328125
+    },
+    {
+        "LinesCapacityReward": 0.6765895556378109,
+        "__scores": 5876.31005859375,
+        "grid_operation_cost": 5876.31005859375
+    },
+    {
+        "LinesCapacityReward": 0.6769026479413432,
+        "__scores": 6254.3603515625,
+        "grid_operation_cost": 6254.3603515625
+    },
+    {
+        "LinesCapacityReward": 0.679282444779591,
+        "__scores": 7023.05615234375,
+        "grid_operation_cost": 7023.05615234375
+    },
+    {
+        "LinesCapacityReward": 0.6784244455317016,
+        "__scores": 7487.0361328125,
+        "grid_operation_cost": 7487.0361328125
+    },
+    {
+        "LinesCapacityReward": 0.680066385576802,
+        "__scores": 8337.7431640625,
+        "grid_operation_cost": 8337.7431640625
+    },
+    {
+        "LinesCapacityReward": 0.6794554187405495,
+        "__scores": 9059.1318359375,
+        "grid_operation_cost": 9059.1318359375
+    },
+    {
+        "LinesCapacityReward": 0.6801690952752226,
+        "__scores": 9997.2421875,
+        "grid_operation_cost": 9997.2421875
+    },
+    {
+        "LinesCapacityReward": 0.6804012585711736,
+        "__scores": 10812.56640625,
+        "grid_operation_cost": 10812.56640625
+    },
+    {
+        "LinesCapacityReward": 0.6790647609259494,
+        "__scores": 11606.5478515625,
+        "grid_operation_cost": 11606.5478515625
+    },
+    {
+        "LinesCapacityReward": 0.6780552197528142,
+        "__scores": 12116.103515625,
+        "grid_operation_cost": 12116.103515625
+    },
+    {
+        "LinesCapacityReward": 0.6813005837061072,
+        "__scores": 12902.5791015625,
+        "grid_operation_cost": 12902.5791015625
+    },
+    {
+        "LinesCapacityReward": 0.6779005399314306,
+        "__scores": 13284.60546875,
+        "grid_operation_cost": 13284.60546875
+    },
+    {
+        "LinesCapacityReward": 0.6764794011269847,
+        "__scores": 13758.5146484375,
+        "grid_operation_cost": 13758.5146484375
+    },
+    {
+        "LinesCapacityReward": 0.6791375683199975,
+        "__scores": 13854.884765625,
+        "grid_operation_cost": 13854.884765625
+    },
+    {
+        "LinesCapacityReward": 0.6759044893326298,
+        "__scores": 13744.27734375,
+        "grid_operation_cost": 13744.27734375
+    },
+    {
+        "LinesCapacityReward": 0.6742665485669208,
+        "__scores": 13864.7998046875,
+        "grid_operation_cost": 13864.7998046875
+    },
+    {
+        "LinesCapacityReward": 0.6705585602791079,
+        "__scores": 13840.1845703125,
+        "grid_operation_cost": 13840.1845703125
+    },
+    {
+        "LinesCapacityReward": 0.6678348459223266,
+        "__scores": 13725.0546875,
+        "grid_operation_cost": 13725.0546875
+    },
+    {
+        "LinesCapacityReward": 0.6671233228457872,
+        "__scores": 13601.4814453125,
+        "grid_operation_cost": 13601.4814453125
+    },
+    {
+        "LinesCapacityReward": 0.6636510049143146,
+        "__scores": 13586.71875,
+        "grid_operation_cost": 13586.71875
+    },
+    {
+        "LinesCapacityReward": 0.6608282109742524,
+        "__scores": 13602.943359375,
+        "grid_operation_cost": 13602.943359375
+    },
+    {
+        "LinesCapacityReward": 0.6613128415999875,
+        "__scores": 13617.3232421875,
+        "grid_operation_cost": 13617.3232421875
+    },
+    {
+        "LinesCapacityReward": 0.657881336827432,
+        "__scores": 13791.158203125,
+        "grid_operation_cost": 13791.158203125
+    },
+    {
+        "LinesCapacityReward": 0.6590989635836694,
+        "__scores": 13781.0908203125,
+        "grid_operation_cost": 13781.0908203125
+    },
+    {
+        "LinesCapacityReward": 0.6567606567054667,
+        "__scores": 14080.7626953125,
+        "grid_operation_cost": 14080.7626953125
+    },
+    {
+        "LinesCapacityReward": 0.658034909156061,
+        "__scores": 14225.4599609375,
+        "grid_operation_cost": 14225.4599609375
+    },
+    {
+        "LinesCapacityReward": 0.6560953611968666,
+        "__scores": 14352.265625,
+        "grid_operation_cost": 14352.265625
+    },
+    {
+        "LinesCapacityReward": 0.6565304827946489,
+        "__scores": 14824.49609375,
+        "grid_operation_cost": 14824.49609375
+    },
+    {
+        "LinesCapacityReward": 0.6540565080540155,
+        "__scores": 15157.5146484375,
+        "grid_operation_cost": 15157.5146484375
+    },
+    {
+        "LinesCapacityReward": 0.6564811378396967,
+        "__scores": 15597.2685546875,
+        "grid_operation_cost": 15597.2685546875
+    },
+    {
+        "LinesCapacityReward": 0.6547026685489122,
+        "__scores": 15924.5771484375,
+        "grid_operation_cost": 15924.5771484375
+    },
+    {
+        "LinesCapacityReward": 0.6572458205684539,
+        "__scores": 16425.86328125,
+        "grid_operation_cost": 16425.86328125
+    },
+    {
+        "LinesCapacityReward": 0.6554246307701194,
+        "__scores": 16895.130859375,
+        "grid_operation_cost": 16895.130859375
+    },
+    {
+        "LinesCapacityReward": 0.6539995747227824,
+        "__scores": 17470.953125,
+        "grid_operation_cost": 17470.953125
+    },
+    {
+        "LinesCapacityReward": 0.6548603016843079,
+        "__scores": 17787.181640625,
+        "grid_operation_cost": 17787.181640625
+    },
+    {
+        "LinesCapacityReward": 0.656982421875,
+        "__scores": 18392.52734375,
+        "grid_operation_cost": 18392.52734375
+    },
+    {
+        "LinesCapacityReward": 0.6576129749257078,
+        "__scores": 18613.486328125,
+        "grid_operation_cost": 18613.486328125
+    },
+    {
+        "LinesCapacityReward": 0.6581448995938866,
+        "__scores": 19252.408203125,
+        "grid_operation_cost": 19252.408203125
+    },
+    {
+        "LinesCapacityReward": 0.6614551954371956,
+        "__scores": 19297.630859375,
+        "grid_operation_cost": 19297.630859375
+    },
+    {
+        "LinesCapacityReward": 0.6614592357348371,
+        "__scores": 19496.705078125,
+        "grid_operation_cost": 19496.705078125
+    },
+    {
+        "LinesCapacityReward": 0.6635368716332221,
+        "__scores": 19957.486328125,
+        "grid_operation_cost": 19957.486328125
+    },
+    {
+        "LinesCapacityReward": 0.6681228555658812,
+        "__scores": 20138.78515625,
+        "grid_operation_cost": 20138.78515625
+    },
+    {
+        "LinesCapacityReward": 0.6709595546927504,
+        "__scores": 20068.67578125,
+        "grid_operation_cost": 20068.67578125
+    },
+    {
+        "LinesCapacityReward": 0.6743890495710476,
+        "__scores": 20634.966796875,
+        "grid_operation_cost": 20634.966796875
+    },
+    {
+        "LinesCapacityReward": 0.6756102449150496,
+        "__scores": 20608.41796875,
+        "grid_operation_cost": 20608.41796875
+    },
+    {
+        "LinesCapacityReward": 0.6765158253331339,
+        "__scores": 20819.630859375,
+        "grid_operation_cost": 20819.630859375
+    },
+    {
+        "LinesCapacityReward": 0.6774450322633149,
+        "__scores": 20942.599609375,
+        "grid_operation_cost": 20942.599609375
+    },
+    {
+        "LinesCapacityReward": 0.679223870718351,
+        "__scores": 21229.544921875,
+        "grid_operation_cost": 21229.544921875
+    },
+    {
+        "LinesCapacityReward": 0.6779961534725722,
+        "__scores": 20719.830078125,
+        "grid_operation_cost": 20719.830078125
+    },
+    {
+        "LinesCapacityReward": 0.6767300431446364,
+        "__scores": 20557.6328125,
+        "grid_operation_cost": 20557.6328125
+    },
+    {
+        "LinesCapacityReward": 0.6729044965518419,
+        "__scores": 19871.3125,
+        "grid_operation_cost": 19871.3125
+    },
+    {
+        "LinesCapacityReward": 0.6720429697344381,
+        "__scores": 19505.955078125,
+        "grid_operation_cost": 19505.955078125
+    },
+    {
+        "LinesCapacityReward": 0.6701010016984837,
+        "__scores": 18951.966796875,
+        "grid_operation_cost": 18951.966796875
+    },
+    {
+        "LinesCapacityReward": 0.6651778887676937,
+        "__scores": 18460.681640625,
+        "grid_operation_cost": 18460.681640625
+    },
+    {
+        "LinesCapacityReward": 0.6617309816422001,
+        "__scores": 18332.7734375,
+        "grid_operation_cost": 18332.7734375
+    },
+    {
+        "LinesCapacityReward": 0.6551461168514785,
+        "__scores": 17920.65625,
+        "grid_operation_cost": 17920.65625
+    },
+    {
+        "LinesCapacityReward": 0.6507345220094086,
+        "__scores": 17648.6875,
+        "grid_operation_cost": 17648.6875
+    },
+    {
+        "LinesCapacityReward": 0.6453741750409526,
+        "__scores": 17697.130859375,
+        "grid_operation_cost": 17697.130859375
+    },
+    {
+        "LinesCapacityReward": 0.6497525861186366,
+        "__scores": 14897.7998046875,
+        "grid_operation_cost": 14897.7998046875
+    },
+    {
+        "LinesCapacityReward": 0.6715898001065819,
+        "__scores": 12013.3583984375,
+        "grid_operation_cost": 12013.3583984375
+    },
+    {
+        "LinesCapacityReward": 0.6671467647757582,
+        "__scores": 13908.396484375,
+        "grid_operation_cost": 13908.396484375
+    },
+    {
+        "LinesCapacityReward": 0.6632128479660199,
+        "__scores": 13966.3369140625,
+        "grid_operation_cost": 13966.3369140625
+    },
+    {
+        "LinesCapacityReward": 0.6629640312605007,
+        "__scores": 13890.5966796875,
+        "grid_operation_cost": 13890.5966796875
+    },
+    {
+        "LinesCapacityReward": 0.6584885299846691,
+        "__scores": 13845.7958984375,
+        "grid_operation_cost": 13845.7958984375
+    },
+    {
+        "LinesCapacityReward": 0.6593858657344696,
+        "__scores": 13839.671875,
+        "grid_operation_cost": 13839.671875
+    },
+    {
+        "LinesCapacityReward": 0.6575228783392137,
+        "__scores": 13785.857421875,
+        "grid_operation_cost": 13785.857421875
+    },
+    {
+        "LinesCapacityReward": 0.6579615890338857,
+        "__scores": 13534.087890625,
+        "grid_operation_cost": 13534.087890625
+    },
+    {
+        "LinesCapacityReward": 0.65870237863192,
+        "__scores": 13661.1376953125,
+        "grid_operation_cost": 13661.1376953125
+    },
+    {
+        "LinesCapacityReward": 0.657681865076865,
+        "__scores": 13534.765625,
+        "grid_operation_cost": 13534.765625
+    },
+    {
+        "LinesCapacityReward": 0.6549128050445229,
+        "__scores": 13548.6884765625,
+        "grid_operation_cost": 13548.6884765625
+    },
+    {
+        "LinesCapacityReward": 0.6588246745447959,
+        "__scores": 10634.6630859375,
+        "grid_operation_cost": 10634.6630859375
+    },
+    {
+        "LinesCapacityReward": 0.6580388879263274,
+        "__scores": 12157.791015625,
+        "grid_operation_cost": 12157.791015625
+    },
+    {
+        "LinesCapacityReward": 0.656176987514701,
+        "__scores": 12014.939453125,
+        "grid_operation_cost": 12014.939453125
+    },
+    {
+        "LinesCapacityReward": 0.656198481077789,
+        "__scores": 12064.154296875,
+        "grid_operation_cost": 12064.154296875
+    },
+    {
+        "LinesCapacityReward": 0.6543819878690986,
+        "__scores": 12104.599609375,
+        "grid_operation_cost": 12104.599609375
+    },
+    {
+        "LinesCapacityReward": 0.6514792903777092,
+        "__scores": 12176.123046875,
+        "grid_operation_cost": 12176.123046875
+    },
+    {
+        "LinesCapacityReward": 0.6570666733608451,
+        "__scores": 13433.3154296875,
+        "grid_operation_cost": 13433.3154296875
+    },
+    {
+        "LinesCapacityReward": 0.658748995873236,
+        "__scores": 12797.7021484375,
+        "grid_operation_cost": 12797.7021484375
+    },
+    {
+        "LinesCapacityReward": 0.6598660048618112,
+        "__scores": 12668.744140625,
+        "grid_operation_cost": 12668.744140625
+    },
+    {
+        "LinesCapacityReward": 0.6608230836929814,
+        "__scores": 13041.36328125,
+        "grid_operation_cost": 13041.36328125
+    },
+    {
+        "LinesCapacityReward": 0.6610877129339403,
+        "__scores": 13088.75390625,
+        "grid_operation_cost": 13088.75390625
+    },
+    {
+        "LinesCapacityReward": 0.6605925611270372,
+        "__scores": 13542.4013671875,
+        "grid_operation_cost": 13542.4013671875
+    },
+    {
+        "LinesCapacityReward": 0.6624027375252016,
+        "__scores": 13714.5830078125,
+        "grid_operation_cost": 13714.5830078125
+    },
+    {
+        "LinesCapacityReward": 0.662503170710738,
+        "__scores": 13850.2939453125,
+        "grid_operation_cost": 13850.2939453125
+    },
+    {
+        "LinesCapacityReward": 0.6612266212381342,
+        "__scores": 14095.9912109375,
+        "grid_operation_cost": 14095.9912109375
+    },
+    {
+        "LinesCapacityReward": 0.6627648056194347,
+        "__scores": 14093.5986328125,
+        "grid_operation_cost": 14093.5986328125
+    },
+    {
+        "LinesCapacityReward": 0.664325180874076,
+        "__scores": 14053.4921875,
+        "grid_operation_cost": 14053.4921875
+    },
+    {
+        "LinesCapacityReward": 0.6646846238002982,
+        "__scores": 13813.8173828125,
+        "grid_operation_cost": 13813.8173828125
+    },
+    {
+        "LinesCapacityReward": 0.6639771205122753,
+        "__scores": 13983.6806640625,
+        "grid_operation_cost": 13983.6806640625
+    },
+    {
+        "LinesCapacityReward": 0.6632323931622249,
+        "__scores": 13532.248046875,
+        "grid_operation_cost": 13532.248046875
+    },
+    {
+        "LinesCapacityReward": 0.6623370057793074,
+        "__scores": 13437.115234375,
+        "grid_operation_cost": 13437.115234375
+    },
+    {
+        "LinesCapacityReward": 0.6637685016919208,
+        "__scores": 13233.9853515625,
+        "grid_operation_cost": 13233.9853515625
+    },
+    {
+        "LinesCapacityReward": 0.6638674377113261,
+        "__scores": 12721.4072265625,
+        "grid_operation_cost": 12721.4072265625
+    },
+    {
+        "LinesCapacityReward": 0.6649512629355154,
+        "__scores": 12602.220703125,
+        "grid_operation_cost": 12602.220703125
+    },
+    {
+        "LinesCapacityReward": 0.6647098295150266,
+        "__scores": 12223.4404296875,
+        "grid_operation_cost": 12223.4404296875
+    },
+    {
+        "LinesCapacityReward": 0.664143305952831,
+        "__scores": 11973.236328125,
+        "grid_operation_cost": 11973.236328125
+    },
+    {
+        "LinesCapacityReward": 0.6640360432286417,
+        "__scores": 11725.1015625,
+        "grid_operation_cost": 11725.1015625
+    },
+    {
+        "LinesCapacityReward": 0.6632488414805423,
+        "__scores": 11441.701171875,
+        "grid_operation_cost": 11441.701171875
+    },
+    {
+        "LinesCapacityReward": 0.66444823562458,
+        "__scores": 11176.5458984375,
+        "grid_operation_cost": 11176.5458984375
+    },
+    {
+        "LinesCapacityReward": 0.6640362278107674,
+        "__scores": 10913.2626953125,
+        "grid_operation_cost": 10913.2626953125
+    },
+    {
+        "LinesCapacityReward": 0.6641938814552882,
+        "__scores": 10720.529296875,
+        "grid_operation_cost": 10720.529296875
+    },
+    {
+        "LinesCapacityReward": 0.6654348475958712,
+        "__scores": 10571.6298828125,
+        "grid_operation_cost": 10571.6298828125
+    },
+    {
+        "LinesCapacityReward": 0.6716717750795427,
+        "__scores": 7928.21484375,
+        "grid_operation_cost": 7928.21484375
+    },
+    {
+        "LinesCapacityReward": 0.6679821219495549,
+        "__scores": 9021.1181640625,
+        "grid_operation_cost": 9021.1181640625
+    },
+    {
+        "LinesCapacityReward": 0.6682728182884955,
+        "__scores": 8673.521484375,
+        "grid_operation_cost": 8673.521484375
+    },
+    {
+        "LinesCapacityReward": 0.6647049278341315,
+        "__scores": 8514.8955078125,
+        "grid_operation_cost": 8514.8955078125
+    },
+    {
+        "LinesCapacityReward": 0.6620515392672631,
+        "__scores": 8329.943359375,
+        "grid_operation_cost": 8329.943359375
+    },
+    {
+        "LinesCapacityReward": 0.6609570903162802,
+        "__scores": 7951.14501953125,
+        "grid_operation_cost": 7951.14501953125
+    },
+    {
+        "LinesCapacityReward": 0.657112777874034,
+        "__scores": 7522.86083984375,
+        "grid_operation_cost": 7522.86083984375
+    },
+    {
+        "LinesCapacityReward": 0.6551468551799816,
+        "__scores": 7081.2431640625,
+        "grid_operation_cost": 7081.2431640625
+    },
+    {
+        "LinesCapacityReward": 0.6535856595603369,
+        "__scores": 6751.7744140625,
+        "grid_operation_cost": 6751.7744140625
+    },
+    {
+        "LinesCapacityReward": 0.6505539596721691,
+        "__scores": 6344.02880859375,
+        "grid_operation_cost": 6344.02880859375
+    },
+    {
+        "LinesCapacityReward": 0.6490599929645497,
+        "__scores": 5996.3134765625,
+        "grid_operation_cost": 5996.3134765625
+    },
+    {
+        "LinesCapacityReward": 0.6465041868148312,
+        "__scores": 6893.693359375,
+        "grid_operation_cost": 6893.693359375
+    },
+    {
+        "LinesCapacityReward": 0.6501861080046624,
+        "__scores": 7656.1904296875,
+        "grid_operation_cost": 7656.1904296875
+    },
+    {
+        "LinesCapacityReward": 0.6511145560972152,
+        "__scores": 5084.45703125,
+        "grid_operation_cost": 5084.45703125
+    },
+    {
+        "LinesCapacityReward": 0.6416058283980175,
+        "__scores": 8155.125,
+        "grid_operation_cost": 8155.125
+    },
+    {
+        "LinesCapacityReward": 0.6404445196992608,
+        "__scores": 6367.11669921875,
+        "grid_operation_cost": 6367.11669921875
+    },
+    {
+        "LinesCapacityReward": 0.6375739805160031,
+        "__scores": 5971.02099609375,
+        "grid_operation_cost": 5971.02099609375
+    },
+    {
+        "LinesCapacityReward": 0.6366831871771044,
+        "__scores": 5691.9873046875,
+        "grid_operation_cost": 5691.9873046875
+    },
+    {
+        "LinesCapacityReward": 0.6373350902270246,
+        "__scores": 5468.9453125,
+        "grid_operation_cost": 5468.9453125
+    },
+    {
+        "LinesCapacityReward": 0.6368802798691616,
+        "__scores": 5229.33935546875,
+        "grid_operation_cost": 5229.33935546875
+    },
+    {
+        "LinesCapacityReward": 0.6340972736317625,
+        "__scores": 5111.8525390625,
+        "grid_operation_cost": 5111.8525390625
+    },
+    {
+        "LinesCapacityReward": 0.6353889793478034,
+        "__scores": 5041.09130859375,
+        "grid_operation_cost": 5041.09130859375
+    },
+    {
+        "LinesCapacityReward": 0.6353804885700185,
+        "__scores": 5018.51220703125,
+        "grid_operation_cost": 5018.51220703125
+    },
+    {
+        "LinesCapacityReward": 0.6339536687379242,
+        "__scores": 5040.4794921875,
+        "grid_operation_cost": 5040.4794921875
+    },
+    {
+        "LinesCapacityReward": 0.6344946994576404,
+        "__scores": 4983.2744140625,
+        "grid_operation_cost": 4983.2744140625
+    },
+    {
+        "LinesCapacityReward": 0.6395173841907132,
+        "__scores": 3745.063232421875,
+        "grid_operation_cost": 3745.063232421875
+    },
+    {
+        "LinesCapacityReward": 0.6398271129977319,
+        "__scores": 4643.478515625,
+        "grid_operation_cost": 4643.478515625
+    },
+    {
+        "LinesCapacityReward": 0.640403050248341,
+        "__scores": 4685.53173828125,
+        "grid_operation_cost": 4685.53173828125
+    },
+    {
+        "LinesCapacityReward": 0.6409015450426327,
+        "__scores": 4710.3525390625,
+        "grid_operation_cost": 4710.3525390625
+    },
+    {
+        "LinesCapacityReward": 0.6407908778036795,
+        "__scores": 4759.580078125,
+        "grid_operation_cost": 4759.580078125
+    },
+    {
+        "LinesCapacityReward": 0.6394008923602361,
+        "__scores": 4698.6552734375,
+        "grid_operation_cost": 4698.6552734375
+    },
+    {
+        "LinesCapacityReward": 0.6386998084283645,
+        "__scores": 4714.8623046875,
+        "grid_operation_cost": 4714.8623046875
+    },
+    {
+        "LinesCapacityReward": 0.6391895253171204,
+        "__scores": 5067.6875,
+        "grid_operation_cost": 5067.6875
+    },
+    {
+        "LinesCapacityReward": 0.6402100593813005,
+        "__scores": 4744.93115234375,
+        "grid_operation_cost": 4744.93115234375
+    },
+    {
+        "LinesCapacityReward": 0.6364956107190861,
+        "__scores": 4698.4091796875,
+        "grid_operation_cost": 4698.4091796875
+    },
+    {
+        "LinesCapacityReward": 0.6370290120442709,
+        "__scores": 4593.49560546875,
+        "grid_operation_cost": 4593.49560546875
+    },
+    {
+        "LinesCapacityReward": 0.6342822659400202,
+        "__scores": 4548.5322265625,
+        "grid_operation_cost": 4548.5322265625
+    },
+    {
+        "LinesCapacityReward": 0.6326525288243449,
+        "__scores": 4548.3896484375,
+        "grid_operation_cost": 4548.3896484375
+    },
+    {
+        "LinesCapacityReward": 0.6330381824124245,
+        "__scores": 4477.9560546875,
+        "grid_operation_cost": 4477.9560546875
+    },
+    {
+        "LinesCapacityReward": 0.6322508781186996,
+        "__scores": 4469.169921875,
+        "grid_operation_cost": 4469.169921875
+    },
+    {
+        "LinesCapacityReward": 0.633134985482821,
+        "__scores": 4429.44873046875,
+        "grid_operation_cost": 4429.44873046875
+    },
+    {
+        "LinesCapacityReward": 0.6322938652448757,
+        "__scores": 4469.08642578125,
+        "grid_operation_cost": 4469.08642578125
+    },
+    {
+        "LinesCapacityReward": 0.6334368387858074,
+        "__scores": 4417.2998046875,
+        "grid_operation_cost": 4417.2998046875
+    },
+    {
+        "LinesCapacityReward": 0.633320059827579,
+        "__scores": 4441.5048828125,
+        "grid_operation_cost": 4441.5048828125
+    },
+    {
+        "LinesCapacityReward": 0.6321382830219885,
+        "__scores": 4430.12060546875,
+        "grid_operation_cost": 4430.12060546875
+    },
+    {
+        "LinesCapacityReward": 0.6312582364646337,
+        "__scores": 4447.79931640625,
+        "grid_operation_cost": 4447.79931640625
+    },
+    {
+        "LinesCapacityReward": 0.6323483374810989,
+        "__scores": 4444.16455078125,
+        "grid_operation_cost": 4444.16455078125
+    },
+    {
+        "LinesCapacityReward": 0.6307312339864752,
+        "__scores": 4451.93994140625,
+        "grid_operation_cost": 4451.93994140625
+    },
+    {
+        "LinesCapacityReward": 0.6308071997857864,
+        "__scores": 4453.6220703125,
+        "grid_operation_cost": 4453.6220703125
+    },
+    {
+        "LinesCapacityReward": 0.6302816739646337,
+        "__scores": 4422.8359375,
+        "grid_operation_cost": 4422.8359375
+    },
+    {
+        "LinesCapacityReward": 0.62964843421854,
+        "__scores": 4418.1376953125,
+        "grid_operation_cost": 4418.1376953125
+    },
+    {
+        "LinesCapacityReward": 0.6299545124012937,
+        "__scores": 4268.87548828125,
+        "grid_operation_cost": 4268.87548828125
+    },
+    {
+        "LinesCapacityReward": 0.6291719252063382,
+        "__scores": 4237.1435546875,
+        "grid_operation_cost": 4237.1435546875
+    },
+    {
+        "LinesCapacityReward": 0.6280203378328714,
+        "__scores": 4235.15087890625,
+        "grid_operation_cost": 4235.15087890625
+    },
+    {
+        "LinesCapacityReward": 0.6294946978169104,
+        "__scores": 4140.2392578125,
+        "grid_operation_cost": 4140.2392578125
+    },
+    {
+        "LinesCapacityReward": 0.6140418103946153,
+        "__scores": 5731.51611328125,
+        "grid_operation_cost": 5731.51611328125
+    },
+    {
+        "LinesCapacityReward": 0.6243436259608115,
+        "__scores": 4055.748291015625,
+        "grid_operation_cost": 4055.748291015625
+    },
+    {
+        "LinesCapacityReward": 0.6249445433257729,
+        "__scores": 3671.268798828125,
+        "grid_operation_cost": 3671.268798828125
+    },
+    {
+        "LinesCapacityReward": 0.6239217122395834,
+        "__scores": 3978.05712890625,
+        "grid_operation_cost": 3978.05712890625
+    },
+    {
+        "LinesCapacityReward": 0.62812255531229,
+        "__scores": 4281.99609375,
+        "grid_operation_cost": 4281.99609375
+    },
+    {
+        "LinesCapacityReward": 0.6267084511377479,
+        "__scores": 4215.67431640625,
+        "grid_operation_cost": 4215.67431640625
+    },
+    {
+        "LinesCapacityReward": 0.6242959627541164,
+        "__scores": 4715.49560546875,
+        "grid_operation_cost": 4715.49560546875
+    },
+    {
+        "LinesCapacityReward": 0.6286520188854587,
+        "__scores": 4179.19091796875,
+        "grid_operation_cost": 4179.19091796875
+    },
+    {
+        "LinesCapacityReward": 0.6296127073226437,
+        "__scores": 5231.5810546875,
+        "grid_operation_cost": 5231.5810546875
+    },
+    {
+        "LinesCapacityReward": 0.6327911705099127,
+        "__scores": 5133.9111328125,
+        "grid_operation_cost": 5133.9111328125
+    },
+    {
+        "LinesCapacityReward": 0.6334489391696069,
+        "__scores": 5430.68994140625,
+        "grid_operation_cost": 5430.68994140625
+    },
+    {
+        "LinesCapacityReward": 0.635191394436744,
+        "__scores": 5426.99609375,
+        "grid_operation_cost": 5426.99609375
+    },
+    {
+        "LinesCapacityReward": 0.636518786030431,
+        "__scores": 5410.59716796875,
+        "grid_operation_cost": 5410.59716796875
+    },
+    {
+        "LinesCapacityReward": 0.6377752160513274,
+        "__scores": 5399.86767578125,
+        "grid_operation_cost": 5399.86767578125
+    },
+    {
+        "LinesCapacityReward": 0.6377852245043684,
+        "__scores": 5392.47021484375,
+        "grid_operation_cost": 5392.47021484375
+    },
+    {
+        "LinesCapacityReward": 0.6379046696488576,
+        "__scores": 5402.03466796875,
+        "grid_operation_cost": 5402.03466796875
+    },
+    {
+        "LinesCapacityReward": 0.6394003181047337,
+        "__scores": 5413.41259765625,
+        "grid_operation_cost": 5413.41259765625
+    },
+    {
+        "LinesCapacityReward": 0.6396301843786752,
+        "__scores": 5391.81884765625,
+        "grid_operation_cost": 5391.81884765625
+    },
+    {
+        "LinesCapacityReward": 0.639616935483871,
+        "__scores": 5421.01513671875,
+        "grid_operation_cost": 5421.01513671875
+    },
+    {
+        "LinesCapacityReward": 0.6387646993001302,
+        "__scores": 5406.80126953125,
+        "grid_operation_cost": 5406.80126953125
+    },
+    {
+        "LinesCapacityReward": 0.6373267635222405,
+        "__scores": 5433.56689453125,
+        "grid_operation_cost": 5433.56689453125
+    },
+    {
+        "LinesCapacityReward": 0.6368823307816701,
+        "__scores": 5493.35205078125,
+        "grid_operation_cost": 5493.35205078125
+    },
+    {
+        "LinesCapacityReward": 0.6342289422148017,
+        "__scores": 5495.1142578125,
+        "grid_operation_cost": 5495.1142578125
+    },
+    {
+        "LinesCapacityReward": 0.6335157578991306,
+        "__scores": 5524.44873046875,
+        "grid_operation_cost": 5524.44873046875
+    },
+    {
+        "LinesCapacityReward": 0.6337023089008947,
+        "__scores": 5560.5478515625,
+        "grid_operation_cost": 5560.5478515625
+    },
+    {
+        "LinesCapacityReward": 0.6321869716849379,
+        "__scores": 5598.71826171875,
+        "grid_operation_cost": 5598.71826171875
+    },
+    {
+        "LinesCapacityReward": 0.63178466468729,
+        "__scores": 5577.15771484375,
+        "grid_operation_cost": 5577.15771484375
+    },
+    {
+        "LinesCapacityReward": 0.6306800432102655,
+        "__scores": 5633.58154296875,
+        "grid_operation_cost": 5633.58154296875
+    },
+    {
+        "LinesCapacityReward": 0.6312090966009325,
+        "__scores": 5625.11767578125,
+        "grid_operation_cost": 5625.11767578125
+    },
+    {
+        "LinesCapacityReward": 0.6340489541330646,
+        "__scores": 5628.7392578125,
+        "grid_operation_cost": 5628.7392578125
+    },
+    {
+        "LinesCapacityReward": 0.6346398630449849,
+        "__scores": 5574.85693359375,
+        "grid_operation_cost": 5574.85693359375
+    },
+    {
+        "LinesCapacityReward": 0.6370340983072917,
+        "__scores": 5480.6123046875,
+        "grid_operation_cost": 5480.6123046875
+    },
+    {
+        "LinesCapacityReward": 0.6399592737997732,
+        "__scores": 5520.6240234375,
+        "grid_operation_cost": 5520.6240234375
+    },
+    {
+        "LinesCapacityReward": 0.6415894210979504,
+        "__scores": 5395.1728515625,
+        "grid_operation_cost": 5395.1728515625
+    },
+    {
+        "LinesCapacityReward": 0.6416368381951445,
+        "__scores": 5365.505859375,
+        "grid_operation_cost": 5365.505859375
+    },
+    {
+        "LinesCapacityReward": 0.6403463220083586,
+        "__scores": 5316.4873046875,
+        "grid_operation_cost": 5316.4873046875
+    },
+    {
+        "LinesCapacityReward": 0.6374284067461568,
+        "__scores": 5273.0791015625,
+        "grid_operation_cost": 5273.0791015625
+    },
+    {
+        "LinesCapacityReward": 0.6364176760437669,
+        "__scores": 5247.232421875,
+        "grid_operation_cost": 5247.232421875
+    },
+    {
+        "LinesCapacityReward": 0.635099349483367,
+        "__scores": 5233.40869140625,
+        "grid_operation_cost": 5233.40869140625
+    },
+    {
+        "LinesCapacityReward": 0.631788807530557,
+        "__scores": 5273.7626953125,
+        "grid_operation_cost": 5273.7626953125
+    },
+    {
+        "LinesCapacityReward": 0.632210434124034,
+        "__scores": 5247.07177734375,
+        "grid_operation_cost": 5247.07177734375
+    },
+    {
+        "LinesCapacityReward": 0.6328343217090895,
+        "__scores": 5307.548828125,
+        "grid_operation_cost": 5307.548828125
+    },
+    {
+        "LinesCapacityReward": 0.63684812156103,
+        "__scores": 5334.98095703125,
+        "grid_operation_cost": 5334.98095703125
+    },
+    {
+        "LinesCapacityReward": 0.6391873923681116,
+        "__scores": 5326.1953125,
+        "grid_operation_cost": 5326.1953125
+    },
+    {
+        "LinesCapacityReward": 0.6406815641669817,
+        "__scores": 5345.07861328125,
+        "grid_operation_cost": 5345.07861328125
+    },
+    {
+        "LinesCapacityReward": 0.6441784110120549,
+        "__scores": 5344.0458984375,
+        "grid_operation_cost": 5344.0458984375
+    },
+    {
+        "LinesCapacityReward": 0.6461212814495129,
+        "__scores": 5366.49951171875,
+        "grid_operation_cost": 5366.49951171875
+    },
+    {
+        "LinesCapacityReward": 0.6463022129510039,
+        "__scores": 5373.2607421875,
+        "grid_operation_cost": 5373.2607421875
+    },
+    {
+        "LinesCapacityReward": 0.6461271060410366,
+        "__scores": 5367.8623046875,
+        "grid_operation_cost": 5367.8623046875
+    },
+    {
+        "LinesCapacityReward": 0.6457030593707997,
+        "__scores": 5370.61376953125,
+        "grid_operation_cost": 5370.61376953125
+    },
+    {
+        "LinesCapacityReward": 0.6441786571215559,
+        "__scores": 5376.279296875,
+        "grid_operation_cost": 5376.279296875
+    },
+    {
+        "LinesCapacityReward": 0.6436897605978034,
+        "__scores": 5378.05615234375,
+        "grid_operation_cost": 5378.05615234375
+    },
+    {
+        "LinesCapacityReward": 0.6447403610393566,
+        "__scores": 5394.10400390625,
+        "grid_operation_cost": 5394.10400390625
+    },
+    {
+        "LinesCapacityReward": 0.6437257746214509,
+        "__scores": 5388.9892578125,
+        "grid_operation_cost": 5388.9892578125
+    },
+    {
+        "LinesCapacityReward": 0.6448790847614247,
+        "__scores": 5373.63623046875,
+        "grid_operation_cost": 5373.63623046875
+    },
+    {
+        "LinesCapacityReward": 0.6461708314957157,
+        "__scores": 5415.6884765625,
+        "grid_operation_cost": 5415.6884765625
+    },
+    {
+        "LinesCapacityReward": 0.6467416004468036,
+        "__scores": 5405.25244140625,
+        "grid_operation_cost": 5405.25244140625
+    },
+    {
+        "LinesCapacityReward": 0.6472415718981015,
+        "__scores": 5414.42431640625,
+        "grid_operation_cost": 5414.42431640625
+    },
+    {
+        "LinesCapacityReward": 0.649417959233766,
+        "__scores": 5364.05126953125,
+        "grid_operation_cost": 5364.05126953125
+    },
+    {
+        "LinesCapacityReward": 0.650204812326739,
+        "__scores": 5331.32763671875,
+        "grid_operation_cost": 5331.32763671875
+    },
+    {
+        "LinesCapacityReward": 0.6501986185709636,
+        "__scores": 5355.60302734375,
+        "grid_operation_cost": 5355.60302734375
+    },
+    {
+        "LinesCapacityReward": 0.6497223556682629,
+        "__scores": 5304.16455078125,
+        "grid_operation_cost": 5304.16455078125
+    },
+    {
+        "LinesCapacityReward": 0.6510515520649572,
+        "__scores": 5310.70751953125,
+        "grid_operation_cost": 5310.70751953125
+    },
+    {
+        "LinesCapacityReward": 0.6520057596186156,
+        "__scores": 5291.87109375,
+        "grid_operation_cost": 5291.87109375
+    },
+    {
+        "LinesCapacityReward": 0.652377425983388,
+        "__scores": 5267.83935546875,
+        "grid_operation_cost": 5267.83935546875
+    },
+    {
+        "LinesCapacityReward": 0.6537474765572497,
+        "__scores": 5232.3330078125,
+        "grid_operation_cost": 5232.3330078125
+    },
+    {
+        "LinesCapacityReward": 0.6551800799626176,
+        "__scores": 5232.5576171875,
+        "grid_operation_cost": 5232.5576171875
+    },
+    {
+        "LinesCapacityReward": 0.65678100175755,
+        "__scores": 5196.6162109375,
+        "grid_operation_cost": 5196.6162109375
+    },
+    {
+        "LinesCapacityReward": 0.6558914594752815,
+        "__scores": 5199.12060546875,
+        "grid_operation_cost": 5199.12060546875
+    },
+    {
+        "LinesCapacityReward": 0.6574508913101689,
+        "__scores": 5183.78173828125,
+        "grid_operation_cost": 5183.78173828125
+    },
+    {
+        "LinesCapacityReward": 0.6593807589623236,
+        "__scores": 5141.20703125,
+        "grid_operation_cost": 5141.20703125
+    },
+    {
+        "LinesCapacityReward": 0.6583482680782196,
+        "__scores": 5212.4658203125,
+        "grid_operation_cost": 5212.4658203125
+    },
+    {
+        "LinesCapacityReward": 0.6595501643355175,
+        "__scores": 5191.86767578125,
+        "grid_operation_cost": 5191.86767578125
+    },
+    {
+        "LinesCapacityReward": 0.6591979406213249,
+        "__scores": 5203.51123046875,
+        "grid_operation_cost": 5203.51123046875
+    },
+    {
+        "LinesCapacityReward": 0.6597035725911459,
+        "__scores": 5258.67724609375,
+        "grid_operation_cost": 5258.67724609375
+    },
+    {
+        "LinesCapacityReward": 0.6596789206227949,
+        "__scores": 5217.92041015625,
+        "grid_operation_cost": 5217.92041015625
+    },
+    {
+        "LinesCapacityReward": 0.6608523297053512,
+        "__scores": 5212.03759765625,
+        "grid_operation_cost": 5212.03759765625
+    },
+    {
+        "LinesCapacityReward": 0.6608934710102697,
+        "__scores": 5234.20166015625,
+        "grid_operation_cost": 5234.20166015625
+    },
+    {
+        "LinesCapacityReward": 0.6623701690345682,
+        "__scores": 5213.56103515625,
+        "grid_operation_cost": 5213.56103515625
+    },
+    {
+        "LinesCapacityReward": 0.6624683051980952,
+        "__scores": 5287.64013671875,
+        "grid_operation_cost": 5287.64013671875
+    },
+    {
+        "LinesCapacityReward": 0.6613746355938656,
+        "__scores": 5275.4853515625,
+        "grid_operation_cost": 5275.4853515625
+    },
+    {
+        "LinesCapacityReward": 0.6596995117843792,
+        "__scores": 5206.7783203125,
+        "grid_operation_cost": 5206.7783203125
+    },
+    {
+        "LinesCapacityReward": 0.6592015092090895,
+        "__scores": 5210.923828125,
+        "grid_operation_cost": 5210.923828125
+    },
+    {
+        "LinesCapacityReward": 0.6586371596141528,
+        "__scores": 5160.37548828125,
+        "grid_operation_cost": 5160.37548828125
+    },
+    {
+        "LinesCapacityReward": 0.6598194491478705,
+        "__scores": 5085.5361328125,
+        "grid_operation_cost": 5085.5361328125
+    },
+    {
+        "LinesCapacityReward": 0.6623142406504642,
+        "__scores": 5020.154296875,
+        "grid_operation_cost": 5020.154296875
+    },
+    {
+        "LinesCapacityReward": 0.6658654982043851,
+        "__scores": 5011.130859375,
+        "grid_operation_cost": 5011.130859375
+    },
+    {
+        "LinesCapacityReward": 0.6694310916367398,
+        "__scores": 5133.3369140625,
+        "grid_operation_cost": 5133.3369140625
+    },
+    {
+        "LinesCapacityReward": 0.6727970492455267,
+        "__scores": 5181.48291015625,
+        "grid_operation_cost": 5181.48291015625
+    },
+    {
+        "LinesCapacityReward": 0.6757142877066008,
+        "__scores": 5225.13232421875,
+        "grid_operation_cost": 5225.13232421875
+    },
+    {
+        "LinesCapacityReward": 0.6802772193826655,
+        "__scores": 5361.20556640625,
+        "grid_operation_cost": 5361.20556640625
+    },
+    {
+        "LinesCapacityReward": 0.6820291293564664,
+        "__scores": 5480.0126953125,
+        "grid_operation_cost": 5480.0126953125
+    },
+    {
+        "LinesCapacityReward": 0.6852135606991347,
+        "__scores": 5590.375,
+        "grid_operation_cost": 5590.375
+    },
+    {
+        "LinesCapacityReward": 0.6856468159665344,
+        "__scores": 5775.60888671875,
+        "grid_operation_cost": 5775.60888671875
+    },
+    {
+        "LinesCapacityReward": 0.6865909125215265,
+        "__scores": 6039.52978515625,
+        "grid_operation_cost": 6039.52978515625
+    },
+    {
+        "LinesCapacityReward": 0.6883902806107717,
+        "__scores": 6045.708984375,
+        "grid_operation_cost": 6045.708984375
+    },
+    {
+        "LinesCapacityReward": 0.6899629408313382,
+        "__scores": 6096.84765625,
+        "grid_operation_cost": 6096.84765625
+    },
+    {
+        "LinesCapacityReward": 0.6898782586538664,
+        "__scores": 6286.30908203125,
+        "grid_operation_cost": 6286.30908203125
+    },
+    {
+        "LinesCapacityReward": 0.691309569984354,
+        "__scores": 6223.0419921875,
+        "grid_operation_cost": 6223.0419921875
+    },
+    {
+        "LinesCapacityReward": 0.6901031001921624,
+        "__scores": 6384.8115234375,
+        "grid_operation_cost": 6384.8115234375
+    },
+    {
+        "LinesCapacityReward": 0.6896640203332389,
+        "__scores": 6123.17041015625,
+        "grid_operation_cost": 6123.17041015625
+    },
+    {
+        "LinesCapacityReward": 0.6907713285056494,
+        "__scores": 5950.6064453125,
+        "grid_operation_cost": 5950.6064453125
+    },
+    {
+        "LinesCapacityReward": 0.6910801549111644,
+        "__scores": 5631.24365234375,
+        "grid_operation_cost": 5631.24365234375
+    },
+    {
+        "LinesCapacityReward": 0.6908786732663391,
+        "__scores": 5376.84423828125,
+        "grid_operation_cost": 5376.84423828125
+    },
+    {
+        "LinesCapacityReward": 0.6916756578671035,
+        "__scores": 5078.33935546875,
+        "grid_operation_cost": 5078.33935546875
+    },
+    {
+        "LinesCapacityReward": 0.6888991325132309,
+        "__scores": 4701.68701171875,
+        "grid_operation_cost": 4701.68701171875
+    },
+    {
+        "LinesCapacityReward": 0.6866424314437375,
+        "__scores": 4537.86376953125,
+        "grid_operation_cost": 4537.86376953125
+    },
+    {
+        "LinesCapacityReward": 0.6843942416611539,
+        "__scores": 4381.3779296875,
+        "grid_operation_cost": 4381.3779296875
+    },
+    {
+        "LinesCapacityReward": 0.682756813623572,
+        "__scores": 4449.36328125,
+        "grid_operation_cost": 4449.36328125
+    },
+    {
+        "LinesCapacityReward": 0.6790266344624182,
+        "__scores": 4566.2138671875,
+        "grid_operation_cost": 4566.2138671875
+    },
+    {
+        "LinesCapacityReward": 0.6756601231072539,
+        "__scores": 4609.27294921875,
+        "grid_operation_cost": 4609.27294921875
+    },
+    {
+        "LinesCapacityReward": 0.6702834098569809,
+        "__scores": 4646.37109375,
+        "grid_operation_cost": 4646.37109375
+    },
+    {
+        "LinesCapacityReward": 0.6641074560021842,
+        "__scores": 4743.13427734375,
+        "grid_operation_cost": 4743.13427734375
+    },
+    {
+        "LinesCapacityReward": 0.6622210471860824,
+        "__scores": 4767.67138671875,
+        "grid_operation_cost": 4767.67138671875
+    },
+    {
+        "LinesCapacityReward": 0.6611792041409401,
+        "__scores": 4968.37255859375,
+        "grid_operation_cost": 4968.37255859375
+    },
+    {
+        "LinesCapacityReward": 0.6613480557677567,
+        "__scores": 5033.2333984375,
+        "grid_operation_cost": 5033.2333984375
+    },
+    {
+        "LinesCapacityReward": 0.6632691455143754,
+        "__scores": 5091.76171875,
+        "grid_operation_cost": 5091.76171875
+    },
+    {
+        "LinesCapacityReward": 0.6641183668567289,
+        "__scores": 5190.82177734375,
+        "grid_operation_cost": 5190.82177734375
+    },
+    {
+        "LinesCapacityReward": 0.6622830462712114,
+        "__scores": 5249.08837890625,
+        "grid_operation_cost": 5249.08837890625
+    },
+    {
+        "LinesCapacityReward": 0.6631755623766171,
+        "__scores": 5242.20849609375,
+        "grid_operation_cost": 5242.20849609375
+    },
+    {
+        "LinesCapacityReward": 0.6613728923182334,
+        "__scores": 5268.02587890625,
+        "grid_operation_cost": 5268.02587890625
+    },
+    {
+        "LinesCapacityReward": 0.660072244623656,
+        "__scores": 5248.59912109375,
+        "grid_operation_cost": 5248.59912109375
+    },
+    {
+        "LinesCapacityReward": 0.6610693572669901,
+        "__scores": 5188.97314453125,
+        "grid_operation_cost": 5188.97314453125
+    },
+    {
+        "LinesCapacityReward": 0.6608341176022766,
+        "__scores": 5155.31298828125,
+        "grid_operation_cost": 5155.31298828125
+    },
+    {
+        "LinesCapacityReward": 0.6591207442745086,
+        "__scores": 5158.8134765625,
+        "grid_operation_cost": 5158.8134765625
+    },
+    {
+        "LinesCapacityReward": 0.6593596755817372,
+        "__scores": 5137.04052734375,
+        "grid_operation_cost": 5137.04052734375
+    },
+    {
+        "LinesCapacityReward": 0.6586959592757687,
+        "__scores": 5133.94287109375,
+        "grid_operation_cost": 5133.94287109375
+    },
+    {
+        "LinesCapacityReward": 0.6594165063673451,
+        "__scores": 5188.34375,
+        "grid_operation_cost": 5188.34375
+    },
+    {
+        "LinesCapacityReward": 0.66300291656166,
+        "__scores": 5213.0341796875,
+        "grid_operation_cost": 5213.0341796875
+    },
+    {
+        "LinesCapacityReward": 0.6660041809082031,
+        "__scores": 5247.6494140625,
+        "grid_operation_cost": 5247.6494140625
+    },
+    {
+        "LinesCapacityReward": 0.6684322152086484,
+        "__scores": 5330.0380859375,
+        "grid_operation_cost": 5330.0380859375
+    },
+    {
+        "LinesCapacityReward": 0.6663494725381175,
+        "__scores": 5505.94482421875,
+        "grid_operation_cost": 5505.94482421875
+    },
+    {
+        "LinesCapacityReward": 0.6659387567991852,
+        "__scores": 5622.673828125,
+        "grid_operation_cost": 5622.673828125
+    },
+    {
+        "LinesCapacityReward": 0.663830049576298,
+        "__scores": 5813.63623046875,
+        "grid_operation_cost": 5813.63623046875
+    },
+    {
+        "LinesCapacityReward": 0.6636126938686576,
+        "__scores": 5987.71435546875,
+        "grid_operation_cost": 5987.71435546875
+    },
+    {
+        "LinesCapacityReward": 0.6633009551673807,
+        "__scores": 6244.24755859375,
+        "grid_operation_cost": 6244.24755859375
+    },
+    {
+        "LinesCapacityReward": 0.6608060201009115,
+        "__scores": 6434.4052734375,
+        "grid_operation_cost": 6434.4052734375
+    },
+    {
+        "LinesCapacityReward": 0.6580467839394847,
+        "__scores": 6688.04736328125,
+        "grid_operation_cost": 6688.04736328125
+    },
+    {
+        "LinesCapacityReward": 0.6558631158644154,
+        "__scores": 7018.66455078125,
+        "grid_operation_cost": 7018.66455078125
+    },
+    {
+        "LinesCapacityReward": 0.6542595894105974,
+        "__scores": 7488.28173828125,
+        "grid_operation_cost": 7488.28173828125
+    },
+    {
+        "LinesCapacityReward": 0.6518040318642894,
+        "__scores": 7867.70703125,
+        "grid_operation_cost": 7867.70703125
+    },
+    {
+        "LinesCapacityReward": 0.647693839124454,
+        "__scores": 8323.0107421875,
+        "grid_operation_cost": 8323.0107421875
+    },
+    {
+        "LinesCapacityReward": 0.6454994037587156,
+        "__scores": 8791.56640625,
+        "grid_operation_cost": 8791.56640625
+    },
+    {
+        "LinesCapacityReward": 0.6461435133411039,
+        "__scores": 9321.4013671875,
+        "grid_operation_cost": 9321.4013671875
+    },
+    {
+        "LinesCapacityReward": 0.6459255423597111,
+        "__scores": 9754.8818359375,
+        "grid_operation_cost": 9754.8818359375
+    },
+    {
+        "LinesCapacityReward": 0.6458460489908855,
+        "__scores": 10173.3466796875,
+        "grid_operation_cost": 10173.3466796875
+    },
+    {
+        "LinesCapacityReward": 0.644807343841881,
+        "__scores": 10669.3955078125,
+        "grid_operation_cost": 10669.3955078125
+    },
+    {
+        "LinesCapacityReward": 0.6459668067193801,
+        "__scores": 11130.830078125,
+        "grid_operation_cost": 11130.830078125
+    },
+    {
+        "LinesCapacityReward": 0.6441531437699514,
+        "__scores": 11445.8046875,
+        "grid_operation_cost": 11445.8046875
+    },
+    {
+        "LinesCapacityReward": 0.645913811140163,
+        "__scores": 11855.984375,
+        "grid_operation_cost": 11855.984375
+    },
+    {
+        "LinesCapacityReward": 0.644787819154801,
+        "__scores": 12280.140625,
+        "grid_operation_cost": 12280.140625
+    },
+    {
+        "LinesCapacityReward": 0.641634992373887,
+        "__scores": 12630.533203125,
+        "grid_operation_cost": 12630.533203125
+    },
+    {
+        "LinesCapacityReward": 0.6412843683714509,
+        "__scores": 13088.279296875,
+        "grid_operation_cost": 13088.279296875
+    },
+    {
+        "LinesCapacityReward": 0.6433949624338459,
+        "__scores": 13350.046875,
+        "grid_operation_cost": 13350.046875
+    },
+    {
+        "LinesCapacityReward": 0.6381373251638105,
+        "__scores": 13586.150390625,
+        "grid_operation_cost": 13586.150390625
+    },
+    {
+        "LinesCapacityReward": 0.6359412080498152,
+        "__scores": 13746.2802734375,
+        "grid_operation_cost": 13746.2802734375
+    },
+    {
+        "LinesCapacityReward": 0.6337008732621389,
+        "__scores": 14188.1533203125,
+        "grid_operation_cost": 14188.1533203125
+    },
+    {
+        "LinesCapacityReward": 0.6534114550518734,
+        "__scores": 10633.2763671875,
+        "grid_operation_cost": 10633.2763671875
+    },
+    {
+        "LinesCapacityReward": 0.6506481375745549,
+        "__scores": 12674.142578125,
+        "grid_operation_cost": 12674.142578125
+    },
+    {
+        "LinesCapacityReward": 0.647795646421371,
+        "__scores": 12769.416015625,
+        "grid_operation_cost": 12769.416015625
+    },
+    {
+        "LinesCapacityReward": 0.6459148776146674,
+        "__scores": 12967.078125,
+        "grid_operation_cost": 12967.078125
+    },
+    {
+        "LinesCapacityReward": 0.6417884006295154,
+        "__scores": 13071.02734375,
+        "grid_operation_cost": 13071.02734375
+    },
+    {
+        "LinesCapacityReward": 0.6402188372868364,
+        "__scores": 13191.0859375,
+        "grid_operation_cost": 13191.0859375
+    },
+    {
+        "LinesCapacityReward": 0.6354270853022094,
+        "__scores": 13350.23828125,
+        "grid_operation_cost": 13350.23828125
+    },
+    {
+        "LinesCapacityReward": 0.6402121923303092,
+        "__scores": 13638.490234375,
+        "grid_operation_cost": 13638.490234375
+    },
+    {
+        "LinesCapacityReward": 0.6339713886219969,
+        "__scores": 13582.458984375,
+        "grid_operation_cost": 13582.458984375
+    },
+    {
+        "LinesCapacityReward": 0.6370774135794691,
+        "__scores": 13860.333984375,
+        "grid_operation_cost": 13860.333984375
+    },
+    {
+        "LinesCapacityReward": 0.6338262250346522,
+        "__scores": 14038.2919921875,
+        "grid_operation_cost": 14038.2919921875
+    },
+    {
+        "LinesCapacityReward": 0.6361693515572497,
+        "__scores": 14236.931640625,
+        "grid_operation_cost": 14236.931640625
+    },
+    {
+        "LinesCapacityReward": 0.632809054466986,
+        "__scores": 14395.353515625,
+        "grid_operation_cost": 14395.353515625
+    },
+    {
+        "LinesCapacityReward": 0.636585686796455,
+        "__scores": 14624.3408203125,
+        "grid_operation_cost": 14624.3408203125
+    },
+    {
+        "LinesCapacityReward": 0.6331737887474799,
+        "__scores": 14710.4697265625,
+        "grid_operation_cost": 14710.4697265625
+    },
+    {
+        "LinesCapacityReward": 0.6368070622926117,
+        "__scores": 14853.0576171875,
+        "grid_operation_cost": 14853.0576171875
+    },
+    {
+        "LinesCapacityReward": 0.6359194683772262,
+        "__scores": 14897.271484375,
+        "grid_operation_cost": 14897.271484375
+    },
+    {
+        "LinesCapacityReward": 0.6377959712859124,
+        "__scores": 15093.8798828125,
+        "grid_operation_cost": 15093.8798828125
+    },
+    {
+        "LinesCapacityReward": 0.6354090372721355,
+        "__scores": 15286.7861328125,
+        "grid_operation_cost": 15286.7861328125
+    },
+    {
+        "LinesCapacityReward": 0.6387564546318465,
+        "__scores": 15334.439453125,
+        "grid_operation_cost": 15334.439453125
+    },
+    {
+        "LinesCapacityReward": 0.6360911707724295,
+        "__scores": 15189.6240234375,
+        "grid_operation_cost": 15189.6240234375
+    },
+    {
+        "LinesCapacityReward": 0.6407380052792129,
+        "__scores": 15486.3994140625,
+        "grid_operation_cost": 15486.3994140625
+    },
+    {
+        "LinesCapacityReward": 0.6387352071782595,
+        "__scores": 15442.3125,
+        "grid_operation_cost": 15442.3125
+    },
+    {
+        "LinesCapacityReward": 0.6407269303516676,
+        "__scores": 15261.09375,
+        "grid_operation_cost": 15261.09375
+    },
+    {
+        "LinesCapacityReward": 0.6410378486879411,
+        "__scores": 15477.0849609375,
+        "grid_operation_cost": 15477.0849609375
+    },
+    {
+        "LinesCapacityReward": 0.6428790759014827,
+        "__scores": 15405.3505859375,
+        "grid_operation_cost": 15405.3505859375
+    },
+    {
+        "LinesCapacityReward": 0.6405417739704091,
+        "__scores": 15525.9755859375,
+        "grid_operation_cost": 15525.9755859375
+    },
+    {
+        "LinesCapacityReward": 0.6435484527259745,
+        "__scores": 15637.8994140625,
+        "grid_operation_cost": 15637.8994140625
+    },
+    {
+        "LinesCapacityReward": 0.6398851128034695,
+        "__scores": 15660.708984375,
+        "grid_operation_cost": 15660.708984375
+    },
+    {
+        "LinesCapacityReward": 0.6425081068469632,
+        "__scores": 15787.5673828125,
+        "grid_operation_cost": 15787.5673828125
+    },
+    {
+        "LinesCapacityReward": 0.6400709254767306,
+        "__scores": 15833.8046875,
+        "grid_operation_cost": 15833.8046875
+    },
+    {
+        "LinesCapacityReward": 0.6428760815692205,
+        "__scores": 16024.41015625,
+        "grid_operation_cost": 16024.41015625
+    },
+    {
+        "LinesCapacityReward": 0.6404810259419104,
+        "__scores": 16069.4169921875,
+        "grid_operation_cost": 16069.4169921875
+    },
+    {
+        "LinesCapacityReward": 0.6420417703608031,
+        "__scores": 16029.25390625,
+        "grid_operation_cost": 16029.25390625
+    },
+    {
+        "LinesCapacityReward": 0.6388891896893901,
+        "__scores": 16033.9462890625,
+        "grid_operation_cost": 16033.9462890625
+    },
+    {
+        "LinesCapacityReward": 0.6420046488444011,
+        "__scores": 15997.8359375,
+        "grid_operation_cost": 15997.8359375
+    },
+    {
+        "LinesCapacityReward": 0.6400256413285451,
+        "__scores": 16108.1748046875,
+        "grid_operation_cost": 16108.1748046875
+    },
+    {
+        "LinesCapacityReward": 0.642576894452495,
+        "__scores": 15857.1845703125,
+        "grid_operation_cost": 15857.1845703125
+    },
+    {
+        "LinesCapacityReward": 0.6394353887086274,
+        "__scores": 15828.0869140625,
+        "grid_operation_cost": 15828.0869140625
+    },
+    {
+        "LinesCapacityReward": 0.6424982214486727,
+        "__scores": 15807.3046875,
+        "grid_operation_cost": 15807.3046875
+    },
+    {
+        "LinesCapacityReward": 0.6385610436880461,
+        "__scores": 15772.6826171875,
+        "grid_operation_cost": 15772.6826171875
+    },
+    {
+        "LinesCapacityReward": 0.6427763251848119,
+        "__scores": 15547.7412109375,
+        "grid_operation_cost": 15547.7412109375
+    },
+    {
+        "LinesCapacityReward": 0.6393617199313256,
+        "__scores": 15464.822265625,
+        "grid_operation_cost": 15464.822265625
+    },
+    {
+        "LinesCapacityReward": 0.6388368504021757,
+        "__scores": 15397.3056640625,
+        "grid_operation_cost": 15397.3056640625
+    },
+    {
+        "LinesCapacityReward": 0.6415188697076614,
+        "__scores": 15120.0205078125,
+        "grid_operation_cost": 15120.0205078125
+    },
+    {
+        "LinesCapacityReward": 0.6389490353163852,
+        "__scores": 15223.931640625,
+        "grid_operation_cost": 15223.931640625
+    },
+    {
+        "LinesCapacityReward": 0.6401954568842406,
+        "__scores": 14984.5263671875,
+        "grid_operation_cost": 14984.5263671875
+    },
+    {
+        "LinesCapacityReward": 0.6338560042842742,
+        "__scores": 14823.4267578125,
+        "grid_operation_cost": 14823.4267578125
+    },
+    {
+        "LinesCapacityReward": 0.6317036946614584,
+        "__scores": 14711.8779296875,
+        "grid_operation_cost": 14711.8779296875
+    },
+    {
+        "LinesCapacityReward": 0.631563453264134,
+        "__scores": 11458.7177734375,
+        "grid_operation_cost": 11458.7177734375
+    },
+    {
+        "LinesCapacityReward": 0.6275811554283225,
+        "__scores": 12759.9296875,
+        "grid_operation_cost": 12759.9296875
+    },
+    {
+        "LinesCapacityReward": 0.6412345722157469,
+        "__scores": 12279.8369140625,
+        "grid_operation_cost": 12279.8369140625
+    },
+    {
+        "LinesCapacityReward": 0.6409005606046287,
+        "__scores": 12327.2734375,
+        "grid_operation_cost": 12327.2734375
+    },
+    {
+        "LinesCapacityReward": 0.6426490865727907,
+        "__scores": 12146.2236328125,
+        "grid_operation_cost": 12146.2236328125
+    },
+    {
+        "LinesCapacityReward": 0.6446240743001302,
+        "__scores": 12171.1689453125,
+        "grid_operation_cost": 12171.1689453125
+    },
+    {
+        "LinesCapacityReward": 0.6468454176379789,
+        "__scores": 12247.77734375,
+        "grid_operation_cost": 12247.77734375
+    },
+    {
+        "LinesCapacityReward": 0.6490739391696069,
+        "__scores": 11952.1943359375,
+        "grid_operation_cost": 11952.1943359375
+    },
+    {
+        "LinesCapacityReward": 0.6524857962003319,
+        "__scores": 11829.80859375,
+        "grid_operation_cost": 11829.80859375
+    },
+    {
+        "LinesCapacityReward": 0.6550956644037719,
+        "__scores": 11820.6806640625,
+        "grid_operation_cost": 11820.6806640625
+    },
+    {
+        "LinesCapacityReward": 0.655902575421077,
+        "__scores": 11738.1259765625,
+        "grid_operation_cost": 11738.1259765625
+    },
+    {
+        "LinesCapacityReward": 0.6572786146594632,
+        "__scores": 11589.130859375,
+        "grid_operation_cost": 11589.130859375
+    },
+    {
+        "LinesCapacityReward": 0.6596314009799753,
+        "__scores": 11787.4521484375,
+        "grid_operation_cost": 11787.4521484375
+    },
+    {
+        "LinesCapacityReward": 0.6598299498199135,
+        "__scores": 11385.41796875,
+        "grid_operation_cost": 11385.41796875
+    },
+    {
+        "LinesCapacityReward": 0.6606457617975051,
+        "__scores": 11535.9970703125,
+        "grid_operation_cost": 11535.9970703125
+    },
+    {
+        "LinesCapacityReward": 0.6617388981644826,
+        "__scores": 11327.0927734375,
+        "grid_operation_cost": 11327.0927734375
+    },
+    {
+        "LinesCapacityReward": 0.6621329399847216,
+        "__scores": 11371.7939453125,
+        "grid_operation_cost": 11371.7939453125
+    },
+    {
+        "LinesCapacityReward": 0.6628303938014534,
+        "__scores": 11363.095703125,
+        "grid_operation_cost": 11363.095703125
+    },
+    {
+        "LinesCapacityReward": 0.664320299702306,
+        "__scores": 11142.9306640625,
+        "grid_operation_cost": 11142.9306640625
+    },
+    {
+        "LinesCapacityReward": 0.6637705731135544,
+        "__scores": 11193.9990234375,
+        "grid_operation_cost": 11193.9990234375
+    },
+    {
+        "LinesCapacityReward": 0.665609605850712,
+        "__scores": 11161.47265625,
+        "grid_operation_cost": 11161.47265625
+    },
+    {
+        "LinesCapacityReward": 0.667650386851321,
+        "__scores": 11015.63671875,
+        "grid_operation_cost": 11015.63671875
+    },
+    {
+        "LinesCapacityReward": 0.6711570985855595,
+        "__scores": 10999.474609375,
+        "grid_operation_cost": 10999.474609375
+    },
+    {
+        "LinesCapacityReward": 0.6737332292782363,
+        "__scores": 10805.298828125,
+        "grid_operation_cost": 10805.298828125
+    },
+    {
+        "LinesCapacityReward": 0.6754830473212786,
+        "__scores": 10854.1748046875,
+        "grid_operation_cost": 10854.1748046875
+    },
+    {
+        "LinesCapacityReward": 0.6759965958133821,
+        "__scores": 10760.23046875,
+        "grid_operation_cost": 10760.23046875
+    },
+    {
+        "LinesCapacityReward": 0.6768446481356057,
+        "__scores": 10681.6650390625,
+        "grid_operation_cost": 10681.6650390625
+    },
+    {
+        "LinesCapacityReward": 0.6787598927815756,
+        "__scores": 10438.9619140625,
+        "grid_operation_cost": 10438.9619140625
+    },
+    {
+        "LinesCapacityReward": 0.679977293937437,
+        "__scores": 10284.1982421875,
+        "grid_operation_cost": 10284.1982421875
+    },
+    {
+        "LinesCapacityReward": 0.6823995446646086,
+        "__scores": 9876.2900390625,
+        "grid_operation_cost": 9876.2900390625
+    },
+    {
+        "LinesCapacityReward": 0.6839510599772136,
+        "__scores": 9806.7236328125,
+        "grid_operation_cost": 9806.7236328125
+    },
+    {
+        "LinesCapacityReward": 0.6848213647001533,
+        "__scores": 9306.3671875,
+        "grid_operation_cost": 9306.3671875
+    },
+    {
+        "LinesCapacityReward": 0.6865484586326025,
+        "__scores": 9020.5322265625,
+        "grid_operation_cost": 9020.5322265625
+    },
+    {
+        "LinesCapacityReward": 0.6901191998553533,
+        "__scores": 8670.9716796875,
+        "grid_operation_cost": 8670.9716796875
+    },
+    {
+        "LinesCapacityReward": 0.690480221984207,
+        "__scores": 8306.1767578125,
+        "grid_operation_cost": 8306.1767578125
+    },
+    {
+        "LinesCapacityReward": 0.6905255471506427,
+        "__scores": 7693.46142578125,
+        "grid_operation_cost": 7693.46142578125
+    },
+    {
+        "LinesCapacityReward": 0.6931636359101984,
+        "__scores": 7333.7568359375,
+        "grid_operation_cost": 7333.7568359375
+    },
+    {
+        "LinesCapacityReward": 0.6918676848052651,
+        "__scores": 6967.4345703125,
+        "grid_operation_cost": 6967.4345703125
+    },
+    {
+        "LinesCapacityReward": 0.6909730562599757,
+        "__scores": 6741.970703125,
+        "grid_operation_cost": 6741.970703125
+    },
+    {
+        "LinesCapacityReward": 0.6895511996361517,
+        "__scores": 6380.28564453125,
+        "grid_operation_cost": 6380.28564453125
+    },
+    {
+        "LinesCapacityReward": 0.6882724967054142,
+        "__scores": 6048.84912109375,
+        "grid_operation_cost": 6048.84912109375
+    },
+    {
+        "LinesCapacityReward": 0.685265366749097,
+        "__scores": 5634.51416015625,
+        "grid_operation_cost": 5634.51416015625
+    },
+    {
+        "LinesCapacityReward": 0.6840674492620653,
+        "__scores": 5563.89892578125,
+        "grid_operation_cost": 5563.89892578125
+    },
+    {
+        "LinesCapacityReward": 0.6789032720750379,
+        "__scores": 5674.52099609375,
+        "grid_operation_cost": 5674.52099609375
+    },
+    {
+        "LinesCapacityReward": 0.6738981636621619,
+        "__scores": 5392.1201171875,
+        "grid_operation_cost": 5392.1201171875
+    },
+    {
+        "LinesCapacityReward": 0.6697300941713396,
+        "__scores": 6062.81396484375,
+        "grid_operation_cost": 6062.81396484375
+    },
+    {
+        "LinesCapacityReward": 0.6744861397691952,
+        "__scores": 6256.98046875,
+        "grid_operation_cost": 6256.98046875
+    },
+    {
+        "LinesCapacityReward": 0.6730469324255502,
+        "__scores": 6275.6455078125,
+        "grid_operation_cost": 6275.6455078125
+    },
+    {
+        "LinesCapacityReward": 0.6659665056454238,
+        "__scores": 5617.00927734375,
+        "grid_operation_cost": 5617.00927734375
+    },
+    {
+        "LinesCapacityReward": 0.6672404299500169,
+        "__scores": 5305.3896484375,
+        "grid_operation_cost": 5305.3896484375
+    },
+    {
+        "LinesCapacityReward": 0.6663247795515164,
+        "__scores": 7065.69970703125,
+        "grid_operation_cost": 7065.69970703125
+    },
+    {
+        "LinesCapacityReward": 0.6651262878089823,
+        "__scores": 6996.87890625,
+        "grid_operation_cost": 6996.87890625
+    },
+    {
+        "LinesCapacityReward": 0.6658483115575647,
+        "__scores": 7755.830078125,
+        "grid_operation_cost": 7755.830078125
+    },
+    {
+        "LinesCapacityReward": 0.6651121980400496,
+        "__scores": 7417.91748046875,
+        "grid_operation_cost": 7417.91748046875
+    },
+    {
+        "LinesCapacityReward": 0.6665182831466839,
+        "__scores": 7466.470703125,
+        "grid_operation_cost": 7466.470703125
+    },
+    {
+        "LinesCapacityReward": 0.6665332753171204,
+        "__scores": 7484.52685546875,
+        "grid_operation_cost": 7484.52685546875
+    },
+    {
+        "LinesCapacityReward": 0.6666369079261698,
+        "__scores": 7539.6171875,
+        "grid_operation_cost": 7539.6171875
+    },
+    {
+        "LinesCapacityReward": 0.6659020249561598,
+        "__scores": 7575.05078125,
+        "grid_operation_cost": 7575.05078125
+    },
+    {
+        "LinesCapacityReward": 0.6649840570265247,
+        "__scores": 7594.45263671875,
+        "grid_operation_cost": 7594.45263671875
+    },
+    {
+        "LinesCapacityReward": 0.6641727570564516,
+        "__scores": 7592.86669921875,
+        "grid_operation_cost": 7592.86669921875
+    },
+    {
+        "LinesCapacityReward": 0.6636097610637707,
+        "__scores": 7608.6083984375,
+        "grid_operation_cost": 7608.6083984375
+    },
+    {
+        "LinesCapacityReward": 0.6606121678506175,
+        "__scores": 7666.68212890625,
+        "grid_operation_cost": 7666.68212890625
+    },
+    {
+        "LinesCapacityReward": 0.6585335064959783,
+        "__scores": 7606.1708984375,
+        "grid_operation_cost": 7606.1708984375
+    },
+    {
+        "LinesCapacityReward": 0.6572357505880377,
+        "__scores": 7592.07763671875,
+        "grid_operation_cost": 7592.07763671875
+    },
+    {
+        "LinesCapacityReward": 0.6545200963174144,
+        "__scores": 7599.12548828125,
+        "grid_operation_cost": 7599.12548828125
+    },
+    {
+        "LinesCapacityReward": 0.652118887952579,
+        "__scores": 7482.2080078125,
+        "grid_operation_cost": 7482.2080078125
+    },
+    {
+        "LinesCapacityReward": 0.6513711662702664,
+        "__scores": 7421.94580078125,
+        "grid_operation_cost": 7421.94580078125
+    },
+    {
+        "LinesCapacityReward": 0.6506616325788601,
+        "__scores": 7388.15673828125,
+        "grid_operation_cost": 7388.15673828125
+    },
+    {
+        "LinesCapacityReward": 0.6491997831611224,
+        "__scores": 7370.333984375,
+        "grid_operation_cost": 7370.333984375
+    },
+    {
+        "LinesCapacityReward": 0.6489979323520456,
+        "__scores": 7450.1923828125,
+        "grid_operation_cost": 7450.1923828125
+    },
+    {
+        "LinesCapacityReward": 0.6478977818642894,
+        "__scores": 7449.57470703125,
+        "grid_operation_cost": 7449.57470703125
+    },
+    {
+        "LinesCapacityReward": 0.646033174248152,
+        "__scores": 7456.56005859375,
+        "grid_operation_cost": 7456.56005859375
+    },
+    {
+        "LinesCapacityReward": 0.6449048852407805,
+        "__scores": 7494.9931640625,
+        "grid_operation_cost": 7494.9931640625
+    },
+    {
+        "LinesCapacityReward": 0.6430778913600471,
+        "__scores": 7507.498046875,
+        "grid_operation_cost": 7507.498046875
+    },
+    {
+        "LinesCapacityReward": 0.6410734935473371,
+        "__scores": 7502.1923828125,
+        "grid_operation_cost": 7502.1923828125
+    },
+    {
+        "LinesCapacityReward": 0.6399054578555529,
+        "__scores": 7534.04443359375,
+        "grid_operation_cost": 7534.04443359375
+    },
+    {
+        "LinesCapacityReward": 0.636150852326424,
+        "__scores": 7582.72509765625,
+        "grid_operation_cost": 7582.72509765625
+    },
+    {
+        "LinesCapacityReward": 0.634539778514575,
+        "__scores": 7618.53515625,
+        "grid_operation_cost": 7618.53515625
+    },
+    {
+        "LinesCapacityReward": 0.6336823330130629,
+        "__scores": 7624.107421875,
+        "grid_operation_cost": 7624.107421875
+    },
+    {
+        "LinesCapacityReward": 0.6313529886225219,
+        "__scores": 7622.51123046875,
+        "grid_operation_cost": 7622.51123046875
+    },
+    {
+        "LinesCapacityReward": 0.6312916663385207,
+        "__scores": 7648.74755859375,
+        "grid_operation_cost": 7648.74755859375
+    },
+    {
+        "LinesCapacityReward": 0.6302461521599882,
+        "__scores": 7665.1923828125,
+        "grid_operation_cost": 7665.1923828125
+    },
+    {
+        "LinesCapacityReward": 0.6292286534463206,
+        "__scores": 7668.23095703125,
+        "grid_operation_cost": 7668.23095703125
+    },
+    {
+        "LinesCapacityReward": 0.6276128625357024,
+        "__scores": 6634.4755859375,
+        "grid_operation_cost": 6634.4755859375
+    },
+    {
+        "LinesCapacityReward": 0.6257215110204554,
+        "__scores": 7760.82421875,
+        "grid_operation_cost": 7760.82421875
+    },
+    {
+        "LinesCapacityReward": 0.6252640344763315,
+        "__scores": 7737.423828125,
+        "grid_operation_cost": 7737.423828125
+    },
+    {
+        "LinesCapacityReward": 0.6258243847918767,
+        "__scores": 7683.9609375,
+        "grid_operation_cost": 7683.9609375
+    },
+    {
+        "LinesCapacityReward": 0.6272345101961526,
+        "__scores": 7641.40625,
+        "grid_operation_cost": 7641.40625
+    },
+    {
+        "LinesCapacityReward": 0.6284670675954511,
+        "__scores": 7575.220703125,
+        "grid_operation_cost": 7575.220703125
+    },
+    {
+        "LinesCapacityReward": 0.6307342693369876,
+        "__scores": 7479.53564453125,
+        "grid_operation_cost": 7479.53564453125
+    },
+    {
+        "LinesCapacityReward": 0.6343827196346816,
+        "__scores": 7485.6416015625,
+        "grid_operation_cost": 7485.6416015625
+    },
+    {
+        "LinesCapacityReward": 0.6383266243883359,
+        "__scores": 7497.455078125,
+        "grid_operation_cost": 7497.455078125
+    },
+    {
+        "LinesCapacityReward": 0.6415171879594045,
+        "__scores": 7501.86962890625,
+        "grid_operation_cost": 7501.86962890625
+    },
+    {
+        "LinesCapacityReward": 0.6443078235913349,
+        "__scores": 7584.34423828125,
+        "grid_operation_cost": 7584.34423828125
+    },
+    {
+        "LinesCapacityReward": 0.6478305939705141,
+        "__scores": 7621.705078125,
+        "grid_operation_cost": 7621.705078125
+    },
+    {
+        "LinesCapacityReward": 0.6510009765625,
+        "__scores": 7623.35400390625,
+        "grid_operation_cost": 7623.35400390625
+    },
+    {
+        "LinesCapacityReward": 0.6532810580345892,
+        "__scores": 7655.1806640625,
+        "grid_operation_cost": 7655.1806640625
+    },
+    {
+        "LinesCapacityReward": 0.65542233374811,
+        "__scores": 7677.35693359375,
+        "grid_operation_cost": 7677.35693359375
+    },
+    {
+        "LinesCapacityReward": 0.6574890998102004,
+        "__scores": 7697.74755859375,
+        "grid_operation_cost": 7697.74755859375
+    },
+    {
+        "LinesCapacityReward": 0.6575385883290281,
+        "__scores": 7732.9697265625,
+        "grid_operation_cost": 7732.9697265625
+    },
+    {
+        "LinesCapacityReward": 0.6557317344091272,
+        "__scores": 7767.32275390625,
+        "grid_operation_cost": 7767.32275390625
+    },
+    {
+        "LinesCapacityReward": 0.6540716848065776,
+        "__scores": 7830.3671875,
+        "grid_operation_cost": 7830.3671875
+    },
+    {
+        "LinesCapacityReward": 0.65386962890625,
+        "__scores": 7889.978515625,
+        "grid_operation_cost": 7889.978515625
+    },
+    {
+        "LinesCapacityReward": 0.6515313835554226,
+        "__scores": 7911.90234375,
+        "grid_operation_cost": 7911.90234375
+    },
+    {
+        "LinesCapacityReward": 0.6508111441007225,
+        "__scores": 7954.158203125,
+        "grid_operation_cost": 7954.158203125
+    },
+    {
+        "LinesCapacityReward": 0.6486325007612987,
+        "__scores": 7889.185546875,
+        "grid_operation_cost": 7889.185546875
+    },
+    {
+        "LinesCapacityReward": 0.6475332116567961,
+        "__scores": 7865.60107421875,
+        "grid_operation_cost": 7865.60107421875
+    },
+    {
+        "LinesCapacityReward": 0.6458437519688761,
+        "__scores": 7846.6103515625,
+        "grid_operation_cost": 7846.6103515625
+    },
+    {
+        "LinesCapacityReward": 0.6472710640199724,
+        "__scores": 7968.10791015625,
+        "grid_operation_cost": 7968.10791015625
+    },
+    {
+        "LinesCapacityReward": 0.6492070433914021,
+        "__scores": 7914.7939453125,
+        "grid_operation_cost": 7914.7939453125
+    },
+    {
+        "LinesCapacityReward": 0.6516912726945775,
+        "__scores": 7786.12109375,
+        "grid_operation_cost": 7786.12109375
+    },
+    {
+        "LinesCapacityReward": 0.6513722327447707,
+        "__scores": 7716.1181640625,
+        "grid_operation_cost": 7716.1181640625
+    },
+    {
+        "LinesCapacityReward": 0.6522674970729377,
+        "__scores": 7514.28955078125,
+        "grid_operation_cost": 7514.28955078125
+    },
+    {
+        "LinesCapacityReward": 0.6542019177508611,
+        "__scores": 7375.06640625,
+        "grid_operation_cost": 7375.06640625
+    },
+    {
+        "LinesCapacityReward": 0.6549590326124622,
+        "__scores": 7338.88232421875,
+        "grid_operation_cost": 7338.88232421875
+    },
+    {
+        "LinesCapacityReward": 0.6532796086491766,
+        "__scores": 7273.9248046875,
+        "grid_operation_cost": 7273.9248046875
+    },
+    {
+        "LinesCapacityReward": 0.6528712092219172,
+        "__scores": 7357.1005859375,
+        "grid_operation_cost": 7357.1005859375
+    },
+    {
+        "LinesCapacityReward": 0.6520419558963261,
+        "__scores": 7514.94091796875,
+        "grid_operation_cost": 7514.94091796875
+    },
+    {
+        "LinesCapacityReward": 0.6505219330658785,
+        "__scores": 7589.5166015625,
+        "grid_operation_cost": 7589.5166015625
+    },
+    {
+        "LinesCapacityReward": 0.6489443392366977,
+        "__scores": 7670.17041015625,
+        "grid_operation_cost": 7670.17041015625
+    },
+    {
+        "LinesCapacityReward": 0.6457808211043075,
+        "__scores": 7741.79541015625,
+        "grid_operation_cost": 7741.79541015625
+    },
+    {
+        "LinesCapacityReward": 0.6466874406144426,
+        "__scores": 7767.64697265625,
+        "grid_operation_cost": 7767.64697265625
+    },
+    {
+        "LinesCapacityReward": 0.6455597748627534,
+        "__scores": 7784.85107421875,
+        "grid_operation_cost": 7784.85107421875
+    },
+    {
+        "LinesCapacityReward": 0.6453386873812289,
+        "__scores": 7816.07421875,
+        "grid_operation_cost": 7816.07421875
+    },
+    {
+        "LinesCapacityReward": 0.646528790448163,
+        "__scores": 7838.1201171875,
+        "grid_operation_cost": 7838.1201171875
+    },
+    {
+        "LinesCapacityReward": 0.6482110925622889,
+        "__scores": 7848.42919921875,
+        "grid_operation_cost": 7848.42919921875
+    },
+    {
+        "LinesCapacityReward": 0.6477794750316723,
+        "__scores": 7888.783203125,
+        "grid_operation_cost": 7888.783203125
+    },
+    {
+        "LinesCapacityReward": 0.6495127085092905,
+        "__scores": 7900.0810546875,
+        "grid_operation_cost": 7900.0810546875
+    },
+    {
+        "LinesCapacityReward": 0.6494990993190456,
+        "__scores": 7904.1943359375,
+        "grid_operation_cost": 7904.1943359375
+    },
+    {
+        "LinesCapacityReward": 0.6488564568596917,
+        "__scores": 7959.41455078125,
+        "grid_operation_cost": 7959.41455078125
+    },
+    {
+        "LinesCapacityReward": 0.6491612202412373,
+        "__scores": 7947.22705078125,
+        "grid_operation_cost": 7947.22705078125
+    },
+    {
+        "LinesCapacityReward": 0.6490254170185811,
+        "__scores": 7946.544921875,
+        "grid_operation_cost": 7946.544921875
+    },
+    {
+        "LinesCapacityReward": 0.6481805749841639,
+        "__scores": 7993.33447265625,
+        "grid_operation_cost": 7993.33447265625
+    },
+    {
+        "LinesCapacityReward": 0.648770471521326,
+        "__scores": 8133.7568359375,
+        "grid_operation_cost": 8133.7568359375
+    },
+    {
+        "LinesCapacityReward": 0.6474634118982264,
+        "__scores": 8251.1826171875,
+        "grid_operation_cost": 8251.1826171875
+    },
+    {
+        "LinesCapacityReward": 0.6455257931271116,
+        "__scores": 8167.92626953125,
+        "grid_operation_cost": 8167.92626953125
+    },
+    {
+        "LinesCapacityReward": 0.6452882508973818,
+        "__scores": 8246.9990234375,
+        "grid_operation_cost": 8246.9990234375
+    },
+    {
+        "LinesCapacityReward": 0.6441619873046875,
+        "__scores": 8123.31787109375,
+        "grid_operation_cost": 8123.31787109375
+    },
+    {
+        "LinesCapacityReward": 0.644464482487859,
+        "__scores": 8223.1455078125,
+        "grid_operation_cost": 8223.1455078125
+    },
+    {
+        "LinesCapacityReward": 0.6446948489627323,
+        "__scores": 8230.763671875,
+        "grid_operation_cost": 8230.763671875
+    },
+    {
+        "LinesCapacityReward": 0.645560022302576,
+        "__scores": 8304.720703125,
+        "grid_operation_cost": 8304.720703125
+    },
+    {
+        "LinesCapacityReward": 0.6447186856656462,
+        "__scores": 8250.2080078125,
+        "grid_operation_cost": 8250.2080078125
+    },
+    {
+        "LinesCapacityReward": 0.6465354713233742,
+        "__scores": 8257.634765625,
+        "grid_operation_cost": 8257.634765625
+    },
+    {
+        "LinesCapacityReward": 0.6462743810705237,
+        "__scores": 8200.1787109375,
+        "grid_operation_cost": 8200.1787109375
+    },
+    {
+        "LinesCapacityReward": 0.6461254222972973,
+        "__scores": 8170.02978515625,
+        "grid_operation_cost": 8170.02978515625
+    },
+    {
+        "LinesCapacityReward": 0.6487021781302788,
+        "__scores": 7974.9033203125,
+        "grid_operation_cost": 7974.9033203125
+    },
+    {
+        "LinesCapacityReward": 0.6505651113149282,
+        "__scores": 7695.0517578125,
+        "grid_operation_cost": 7695.0517578125
+    },
+    {
+        "LinesCapacityReward": 0.6507314733556799,
+        "__scores": 7515.30078125,
+        "grid_operation_cost": 7515.30078125
+    },
+    {
+        "LinesCapacityReward": 0.6519616204339105,
+        "__scores": 7374.4462890625,
+        "grid_operation_cost": 7374.4462890625
+    },
+    {
+        "LinesCapacityReward": 0.6519024823163007,
+        "__scores": 7174.13720703125,
+        "grid_operation_cost": 7174.13720703125
+    },
+    {
+        "LinesCapacityReward": 0.656851060928837,
+        "__scores": 7012.8271484375,
+        "grid_operation_cost": 7012.8271484375
+    },
+    {
+        "LinesCapacityReward": 0.6545008177398354,
+        "__scores": 7032.07421875,
+        "grid_operation_cost": 7032.07421875
+    },
+    {
+        "LinesCapacityReward": 0.6529356023316742,
+        "__scores": 7108.79931640625,
+        "grid_operation_cost": 7108.79931640625
+    },
+    {
+        "LinesCapacityReward": 0.6531073457451277,
+        "__scores": 6974.74853515625,
+        "grid_operation_cost": 6974.74853515625
+    },
+    {
+        "LinesCapacityReward": 0.6533831524592575,
+        "__scores": 7043.0654296875,
+        "grid_operation_cost": 7043.0654296875
+    },
+    {
+        "LinesCapacityReward": 0.6542806317729335,
+        "__scores": 6980.15087890625,
+        "grid_operation_cost": 6980.15087890625
+    },
+    {
+        "LinesCapacityReward": 0.6540579847110216,
+        "__scores": 6969.34228515625,
+        "grid_operation_cost": 6969.34228515625
+    },
+    {
+        "LinesCapacityReward": 0.6529722726473245,
+        "__scores": 6994.65380859375,
+        "grid_operation_cost": 6994.65380859375
+    },
+    {
+        "LinesCapacityReward": 0.6513879427345851,
+        "__scores": 6989.35546875,
+        "grid_operation_cost": 6989.35546875
+    },
+    {
+        "LinesCapacityReward": 0.653347876764113,
+        "__scores": 7019.48681640625,
+        "grid_operation_cost": 7019.48681640625
+    },
+    {
+        "LinesCapacityReward": 0.6556871475711946,
+        "__scores": 7115.79736328125,
+        "grid_operation_cost": 7115.79736328125
+    },
+    {
+        "LinesCapacityReward": 0.6574643042779739,
+        "__scores": 7096.8076171875,
+        "grid_operation_cost": 7096.8076171875
+    },
+    {
+        "LinesCapacityReward": 0.6593176113661899,
+        "__scores": 7156.3388671875,
+        "grid_operation_cost": 7156.3388671875
+    },
+    {
+        "LinesCapacityReward": 0.66269774078041,
+        "__scores": 7247.43896484375,
+        "grid_operation_cost": 7247.43896484375
+    },
+    {
+        "LinesCapacityReward": 0.6646838444535451,
+        "__scores": 7349.0224609375,
+        "grid_operation_cost": 7349.0224609375
+    },
+    {
+        "LinesCapacityReward": 0.6673026546355217,
+        "__scores": 7414.39794921875,
+        "grid_operation_cost": 7414.39794921875
+    },
+    {
+        "LinesCapacityReward": 0.6671531636227844,
+        "__scores": 7462.28857421875,
+        "grid_operation_cost": 7462.28857421875
+    },
+    {
+        "LinesCapacityReward": 0.6690538878081947,
+        "__scores": 7471.90771484375,
+        "grid_operation_cost": 7471.90771484375
+    },
+    {
+        "LinesCapacityReward": 0.6693104159447455,
+        "__scores": 7400.72314453125,
+        "grid_operation_cost": 7400.72314453125
+    },
+    {
+        "LinesCapacityReward": 0.668388182117093,
+        "__scores": 7374.50244140625,
+        "grid_operation_cost": 7374.50244140625
+    },
+    {
+        "LinesCapacityReward": 0.6688572873351395,
+        "__scores": 7338.94482421875,
+        "grid_operation_cost": 7338.94482421875
+    },
+    {
+        "LinesCapacityReward": 0.6681619459582914,
+        "__scores": 7303.26904296875,
+        "grid_operation_cost": 7303.26904296875
+    },
+    {
+        "LinesCapacityReward": 0.6689887713360531,
+        "__scores": 7272.57666015625,
+        "grid_operation_cost": 7272.57666015625
+    },
+    {
+        "LinesCapacityReward": 0.6702367515974148,
+        "__scores": 7277.541015625,
+        "grid_operation_cost": 7277.541015625
+    },
+    {
+        "LinesCapacityReward": 0.6731047681582872,
+        "__scores": 7311.82666015625,
+        "grid_operation_cost": 7311.82666015625
+    },
+    {
+        "LinesCapacityReward": 0.6748663174208774,
+        "__scores": 7336.81201171875,
+        "grid_operation_cost": 7336.81201171875
+    },
+    {
+        "LinesCapacityReward": 0.6765382828251009,
+        "__scores": 7328.06298828125,
+        "grid_operation_cost": 7328.06298828125
+    },
+    {
+        "LinesCapacityReward": 0.6774614805816322,
+        "__scores": 7374.69384765625,
+        "grid_operation_cost": 7374.69384765625
+    },
+    {
+        "LinesCapacityReward": 0.6779682200442079,
+        "__scores": 7403.4013671875,
+        "grid_operation_cost": 7403.4013671875
+    },
+    {
+        "LinesCapacityReward": 0.6796765686363303,
+        "__scores": 7367.8564453125,
+        "grid_operation_cost": 7367.8564453125
+    },
+    {
+        "LinesCapacityReward": 0.6791139212987757,
+        "__scores": 7339.75048828125,
+        "grid_operation_cost": 7339.75048828125
+    },
+    {
+        "LinesCapacityReward": 0.6788001111758654,
+        "__scores": 7107.83544921875,
+        "grid_operation_cost": 7107.83544921875
+    },
+    {
+        "LinesCapacityReward": 0.6795870873235887,
+        "__scores": 6949.61376953125,
+        "grid_operation_cost": 6949.61376953125
+    },
+    {
+        "LinesCapacityReward": 0.6798074373634914,
+        "__scores": 6740.591796875,
+        "grid_operation_cost": 6740.591796875
+    },
+    {
+        "LinesCapacityReward": 0.678316157351258,
+        "__scores": 6727.16796875,
+        "grid_operation_cost": 6727.16796875
+    },
+    {
+        "LinesCapacityReward": 0.6782758159022177,
+        "__scores": 6820.3671875,
+        "grid_operation_cost": 6820.3671875
+    },
+    {
+        "LinesCapacityReward": 0.6775582016155285,
+        "__scores": 6800.33544921875,
+        "grid_operation_cost": 6800.33544921875
+    },
+    {
+        "LinesCapacityReward": 0.675493383920321,
+        "__scores": 6881.47705078125,
+        "grid_operation_cost": 6881.47705078125
+    },
+    {
+        "LinesCapacityReward": 0.6754617998676916,
+        "__scores": 7017.458984375,
+        "grid_operation_cost": 7017.458984375
+    },
+    {
+        "LinesCapacityReward": 0.6736329601657006,
+        "__scores": 7079.3212890625,
+        "grid_operation_cost": 7079.3212890625
+    },
+    {
+        "LinesCapacityReward": 0.6723022871120002,
+        "__scores": 7110.46435546875,
+        "grid_operation_cost": 7110.46435546875
+    },
+    {
+        "LinesCapacityReward": 0.669756079232821,
+        "__scores": 7150.48583984375,
+        "grid_operation_cost": 7150.48583984375
+    },
+    {
+        "LinesCapacityReward": 0.6701411995836484,
+        "__scores": 7182.8095703125,
+        "grid_operation_cost": 7182.8095703125
+    },
+    {
+        "LinesCapacityReward": 0.6697167017126596,
+        "__scores": 7264.5673828125,
+        "grid_operation_cost": 7264.5673828125
+    },
+    {
+        "LinesCapacityReward": 0.6706793795349778,
+        "__scores": 7316.34716796875,
+        "grid_operation_cost": 7316.34716796875
+    },
+    {
+        "LinesCapacityReward": 0.6706287014868952,
+        "__scores": 7355.0234375,
+        "grid_operation_cost": 7355.0234375
+    },
+    {
+        "LinesCapacityReward": 0.6695544130058699,
+        "__scores": 7333.7783203125,
+        "grid_operation_cost": 7333.7783203125
+    },
+    {
+        "LinesCapacityReward": 0.6667578912550404,
+        "__scores": 7414.03662109375,
+        "grid_operation_cost": 7414.03662109375
+    },
+    {
+        "LinesCapacityReward": 0.6651030919885124,
+        "__scores": 7413.4716796875,
+        "grid_operation_cost": 7413.4716796875
+    },
+    {
+        "LinesCapacityReward": 0.6624759551017516,
+        "__scores": 7397.87841796875,
+        "grid_operation_cost": 7397.87841796875
+    },
+    {
+        "LinesCapacityReward": 0.6641732082572035,
+        "__scores": 7409.68798828125,
+        "grid_operation_cost": 7409.68798828125
+    },
+    {
+        "LinesCapacityReward": 0.6658938007970011,
+        "__scores": 7496.857421875,
+        "grid_operation_cost": 7496.857421875
+    },
+    {
+        "LinesCapacityReward": 0.6672630720241096,
+        "__scores": 7495.8876953125,
+        "grid_operation_cost": 7495.8876953125
+    },
+    {
+        "LinesCapacityReward": 0.6685496504588794,
+        "__scores": 7544.94189453125,
+        "grid_operation_cost": 7544.94189453125
+    },
+    {
+        "LinesCapacityReward": 0.6696264205440399,
+        "__scores": 7527.119140625,
+        "grid_operation_cost": 7527.119140625
+    },
+    {
+        "LinesCapacityReward": 0.6709981323570334,
+        "__scores": 7583.6865234375,
+        "grid_operation_cost": 7583.6865234375
+    },
+    {
+        "LinesCapacityReward": 0.6719105833320208,
+        "__scores": 7510.29248046875,
+        "grid_operation_cost": 7510.29248046875
+    },
+    {
+        "LinesCapacityReward": 0.672042231405935,
+        "__scores": 7451.2646484375,
+        "grid_operation_cost": 7451.2646484375
+    },
+    {
+        "LinesCapacityReward": 0.6695416768391927,
+        "__scores": 7399.865234375,
+        "grid_operation_cost": 7399.865234375
+    },
+    {
+        "LinesCapacityReward": 0.6668317241053427,
+        "__scores": 7379.53857421875,
+        "grid_operation_cost": 7379.53857421875
+    },
+    {
+        "LinesCapacityReward": 0.6652160152312249,
+        "__scores": 7404.06005859375,
+        "grid_operation_cost": 7404.06005859375
+    },
+    {
+        "LinesCapacityReward": 0.6633545865294754,
+        "__scores": 7412.6455078125,
+        "grid_operation_cost": 7412.6455078125
+    },
+    {
+        "LinesCapacityReward": 0.6597151807559435,
+        "__scores": 7505.24951171875,
+        "grid_operation_cost": 7505.24951171875
+    },
+    {
+        "LinesCapacityReward": 0.6578122620941491,
+        "__scores": 7650.0615234375,
+        "grid_operation_cost": 7650.0615234375
+    },
+    {
+        "LinesCapacityReward": 0.6550323322255125,
+        "__scores": 7788.95068359375,
+        "grid_operation_cost": 7788.95068359375
+    },
+    {
+        "LinesCapacityReward": 0.6535981701266381,
+        "__scores": 8023.65966796875,
+        "grid_operation_cost": 8023.65966796875
+    },
+    {
+        "LinesCapacityReward": 0.6512177169963879,
+        "__scores": 8299.681640625,
+        "grid_operation_cost": 8299.681640625
+    },
+    {
+        "LinesCapacityReward": 0.6477520850396926,
+        "__scores": 8610.890625,
+        "grid_operation_cost": 8610.890625
+    },
+    {
+        "LinesCapacityReward": 0.6454013291225639,
+        "__scores": 8951.5595703125,
+        "grid_operation_cost": 8951.5595703125
+    },
+    {
+        "LinesCapacityReward": 0.6437359061292424,
+        "__scores": 9276.2119140625,
+        "grid_operation_cost": 9276.2119140625
+    },
+    {
+        "LinesCapacityReward": 0.640582505092826,
+        "__scores": 9568.650390625,
+        "grid_operation_cost": 9568.650390625
+    },
+    {
+        "LinesCapacityReward": 0.6372156450825354,
+        "__scores": 9931.158203125,
+        "grid_operation_cost": 9931.158203125
+    },
+    {
+        "LinesCapacityReward": 0.6355669575352824,
+        "__scores": 10559.2724609375,
+        "grid_operation_cost": 10559.2724609375
+    },
+    {
+        "LinesCapacityReward": 0.631115205826298,
+        "__scores": 11113.08984375,
+        "grid_operation_cost": 11113.08984375
+    },
+    {
+        "LinesCapacityReward": 0.6284166561659946,
+        "__scores": 11665.544921875,
+        "grid_operation_cost": 11665.544921875
+    },
+    {
+        "LinesCapacityReward": 0.6264092640210224,
+        "__scores": 12255.38671875,
+        "grid_operation_cost": 12255.38671875
+    },
+    {
+        "LinesCapacityReward": 0.6230381791309645,
+        "__scores": 12636.1962890625,
+        "grid_operation_cost": 12636.1962890625
+    },
+    {
+        "LinesCapacityReward": 0.6211245136876261,
+        "__scores": 13372.974609375,
+        "grid_operation_cost": 13372.974609375
+    },
+    {
+        "LinesCapacityReward": 0.6232735828686786,
+        "__scores": 13645.736328125,
+        "grid_operation_cost": 13645.736328125
+    },
+    {
+        "LinesCapacityReward": 0.6179712767242104,
+        "__scores": 14097.78515625,
+        "grid_operation_cost": 14097.78515625
+    },
+    {
+        "LinesCapacityReward": 0.6208962471254411,
+        "__scores": 14394.791015625,
+        "grid_operation_cost": 14394.791015625
+    },
+    {
+        "LinesCapacityReward": 0.6172063683950774,
+        "__scores": 14564.05859375,
+        "grid_operation_cost": 14564.05859375
+    },
+    {
+        "LinesCapacityReward": 0.6175223729943717,
+        "__scores": 14747.9521484375,
+        "grid_operation_cost": 14747.9521484375
+    },
+    {
+        "LinesCapacityReward": 0.6150664462838122,
+        "__scores": 15163.78125,
+        "grid_operation_cost": 15163.78125
+    },
+    {
+        "LinesCapacityReward": 0.6169479534190189,
+        "__scores": 15202.7421875,
+        "grid_operation_cost": 15202.7421875
+    },
+    {
+        "LinesCapacityReward": 0.6467886073614962,
+        "__scores": 13510.685546875,
+        "grid_operation_cost": 13510.685546875
+    },
+    {
+        "LinesCapacityReward": 0.643232653217931,
+        "__scores": 14481.9541015625,
+        "grid_operation_cost": 14481.9541015625
+    },
+    {
+        "LinesCapacityReward": 0.6451082127068632,
+        "__scores": 14759.2294921875,
+        "grid_operation_cost": 14759.2294921875
+    },
+    {
+        "LinesCapacityReward": 0.6408946539766045,
+        "__scores": 14866.7451171875,
+        "grid_operation_cost": 14866.7451171875
+    },
+    {
+        "LinesCapacityReward": 0.6435187555128529,
+        "__scores": 15231.5146484375,
+        "grid_operation_cost": 15231.5146484375
+    },
+    {
+        "LinesCapacityReward": 0.6387603513656125,
+        "__scores": 15319.8349609375,
+        "grid_operation_cost": 15319.8349609375
+    },
+    {
+        "LinesCapacityReward": 0.641616452124811,
+        "__scores": 15604.5693359375,
+        "grid_operation_cost": 15604.5693359375
+    },
+    {
+        "LinesCapacityReward": 0.6388385731686829,
+        "__scores": 15918.390625,
+        "grid_operation_cost": 15918.390625
+    },
+    {
+        "LinesCapacityReward": 0.6422608078167004,
+        "__scores": 16185.306640625,
+        "grid_operation_cost": 16185.306640625
+    },
+    {
+        "LinesCapacityReward": 0.6410462574292255,
+        "__scores": 16372.755859375,
+        "grid_operation_cost": 16372.755859375
+    },
+    {
+        "LinesCapacityReward": 0.6443994173439601,
+        "__scores": 16609.021484375,
+        "grid_operation_cost": 16609.021484375
+    },
+    {
+        "LinesCapacityReward": 0.6440171272523942,
+        "__scores": 17139.376953125,
+        "grid_operation_cost": 17139.376953125
+    },
+    {
+        "LinesCapacityReward": 0.6487596573368196,
+        "__scores": 17529.783203125,
+        "grid_operation_cost": 17529.783203125
+    },
+    {
+        "LinesCapacityReward": 0.6471510446199807,
+        "__scores": 17490.81640625,
+        "grid_operation_cost": 17490.81640625
+    },
+    {
+        "LinesCapacityReward": 0.6509439611947665,
+        "__scores": 17824.900390625,
+        "grid_operation_cost": 17824.900390625
+    },
+    {
+        "LinesCapacityReward": 0.6494374429025959,
+        "__scores": 18213.7578125,
+        "grid_operation_cost": 18213.7578125
+    },
+    {
+        "LinesCapacityReward": 0.6531629664923556,
+        "__scores": 18225.138671875,
+        "grid_operation_cost": 18225.138671875
+    },
+    {
+        "LinesCapacityReward": 0.6502071093487484,
+        "__scores": 18454.4140625,
+        "grid_operation_cost": 18454.4140625
+    },
+    {
+        "LinesCapacityReward": 0.6543398621261761,
+        "__scores": 18247.4609375,
+        "grid_operation_cost": 18247.4609375
+    },
+    {
+        "LinesCapacityReward": 0.6521285682596186,
+        "__scores": 18449.29296875,
+        "grid_operation_cost": 18449.29296875
+    },
+    {
+        "LinesCapacityReward": 0.6460916467615077,
+        "__scores": 18260.67578125,
+        "grid_operation_cost": 18260.67578125
+    },
+    {
+        "LinesCapacityReward": 0.6419309873838682,
+        "__scores": 18011.41015625,
+        "grid_operation_cost": 18011.41015625
+    },
+    {
+        "LinesCapacityReward": 0.6432974738043709,
+        "__scores": 17884.33203125,
+        "grid_operation_cost": 17884.33203125
+    },
+    {
+        "LinesCapacityReward": 0.6382366283519848,
+        "__scores": 17936.935546875,
+        "grid_operation_cost": 17936.935546875
+    },
+    {
+        "LinesCapacityReward": 0.6394866118559966,
+        "__scores": 17927.314453125,
+        "grid_operation_cost": 17927.314453125
+    },
+    {
+        "LinesCapacityReward": 0.63502572549356,
+        "__scores": 17756.40234375,
+        "grid_operation_cost": 17756.40234375
+    },
+    {
+        "LinesCapacityReward": 0.6344396230336783,
+        "__scores": 17669.76171875,
+        "grid_operation_cost": 17669.76171875
+    },
+    {
+        "LinesCapacityReward": 0.6294168008340372,
+        "__scores": 17987.126953125,
+        "grid_operation_cost": 17987.126953125
+    },
+    {
+        "LinesCapacityReward": 0.63020394814981,
+        "__scores": 17846.439453125,
+        "grid_operation_cost": 17846.439453125
+    },
+    {
+        "LinesCapacityReward": 0.6272523209855364,
+        "__scores": 17919.1640625,
+        "grid_operation_cost": 17919.1640625
+    },
+    {
+        "LinesCapacityReward": 0.6269278036581504,
+        "__scores": 18246.734375,
+        "grid_operation_cost": 18246.734375
+    },
+    {
+        "LinesCapacityReward": 0.6233376167915963,
+        "__scores": 18221.71484375,
+        "grid_operation_cost": 18221.71484375
+    },
+    {
+        "LinesCapacityReward": 0.6257554337785051,
+        "__scores": 18338.15625,
+        "grid_operation_cost": 18338.15625
+    },
+    {
+        "LinesCapacityReward": 0.6319478352864584,
+        "__scores": 18474.169921875,
+        "grid_operation_cost": 18474.169921875
+    },
+    {
+        "LinesCapacityReward": 0.6335353646227109,
+        "__scores": 18693.1953125,
+        "grid_operation_cost": 18693.1953125
+    },
+    {
+        "LinesCapacityReward": 0.630680412374517,
+        "__scores": 18662.791015625,
+        "grid_operation_cost": 18662.791015625
+    },
+    {
+        "LinesCapacityReward": 0.6349212482411375,
+        "__scores": 18899.97265625,
+        "grid_operation_cost": 18899.97265625
+    },
+    {
+        "LinesCapacityReward": 0.6330946235246556,
+        "__scores": 19107.583984375,
+        "grid_operation_cost": 19107.583984375
+    },
+    {
+        "LinesCapacityReward": 0.6349240374821489,
+        "__scores": 19351.271484375,
+        "grid_operation_cost": 19351.271484375
+    },
+    {
+        "LinesCapacityReward": 0.6307451391732821,
+        "__scores": 19334.13671875,
+        "grid_operation_cost": 19334.13671875
+    },
+    {
+        "LinesCapacityReward": 0.6335191624138945,
+        "__scores": 19689.44140625,
+        "grid_operation_cost": 19689.44140625
+    },
+    {
+        "LinesCapacityReward": 0.6330150481193297,
+        "__scores": 19648.54296875,
+        "grid_operation_cost": 19648.54296875
+    },
+    {
+        "LinesCapacityReward": 0.634243380638861,
+        "__scores": 19658.138671875,
+        "grid_operation_cost": 19658.138671875
+    },
+    {
+        "LinesCapacityReward": 0.6306667532972111,
+        "__scores": 19875.78515625,
+        "grid_operation_cost": 19875.78515625
+    },
+    {
+        "LinesCapacityReward": 0.6332556611748152,
+        "__scores": 19783.015625,
+        "grid_operation_cost": 19783.015625
+    },
+    {
+        "LinesCapacityReward": 0.6311273062100975,
+        "__scores": 19627.92578125,
+        "grid_operation_cost": 19627.92578125
+    },
+    {
+        "LinesCapacityReward": 0.6331287096905452,
+        "__scores": 19597.306640625,
+        "grid_operation_cost": 19597.306640625
+    },
+    {
+        "LinesCapacityReward": 0.6313860493321574,
+        "__scores": 19487.244140625,
+        "grid_operation_cost": 19487.244140625
+    },
+    {
+        "LinesCapacityReward": 0.6354547726210727,
+        "__scores": 19559.951171875,
+        "grid_operation_cost": 19559.951171875
+    },
+    {
+        "LinesCapacityReward": 0.6317129237677462,
+        "__scores": 19363.99609375,
+        "grid_operation_cost": 19363.99609375
+    },
+    {
+        "LinesCapacityReward": 0.6356339813560569,
+        "__scores": 19445.904296875,
+        "grid_operation_cost": 19445.904296875
+    },
+    {
+        "LinesCapacityReward": 0.6333061956590222,
+        "__scores": 19470.455078125,
+        "grid_operation_cost": 19470.455078125
+    },
+    {
+        "LinesCapacityReward": 0.6350920482348371,
+        "__scores": 19332.634765625,
+        "grid_operation_cost": 19332.634765625
+    },
+    {
+        "LinesCapacityReward": 0.6343091739121304,
+        "__scores": 19541.1015625,
+        "grid_operation_cost": 19541.1015625
+    },
+    {
+        "LinesCapacityReward": 0.6397360935006091,
+        "__scores": 19541.8515625,
+        "grid_operation_cost": 19541.8515625
+    },
+    {
+        "LinesCapacityReward": 0.6381635768439181,
+        "__scores": 19954.576171875,
+        "grid_operation_cost": 19954.576171875
+    },
+    {
+        "LinesCapacityReward": 0.640541732952159,
+        "__scores": 19999.892578125,
+        "grid_operation_cost": 19999.892578125
+    },
+    {
+        "LinesCapacityReward": 0.6420254450972362,
+        "__scores": 20650.529296875,
+        "grid_operation_cost": 20650.529296875
+    },
+    {
+        "LinesCapacityReward": 0.6458812426495296,
+        "__scores": 21067.341796875,
+        "grid_operation_cost": 21067.341796875
+    },
+    {
+        "LinesCapacityReward": 0.6477275561260921,
+        "__scores": 21405.5,
+        "grid_operation_cost": 21405.5
+    },
+    {
+        "LinesCapacityReward": 0.6488912438833586,
+        "__scores": 22145.263671875,
+        "grid_operation_cost": 22145.263671875
+    },
+    {
+        "LinesCapacityReward": 0.6525558143533686,
+        "__scores": 22076.671875,
+        "grid_operation_cost": 22076.671875
+    },
+    {
+        "LinesCapacityReward": 0.6524787000430529,
+        "__scores": 22363.57421875,
+        "grid_operation_cost": 22363.57421875
+    },
+    {
+        "LinesCapacityReward": 0.6551118255943381,
+        "__scores": 22287.603515625,
+        "grid_operation_cost": 22287.603515625
+    },
+    {
+        "LinesCapacityReward": 0.6557305448798724,
+        "__scores": 21732.443359375,
+        "grid_operation_cost": 21732.443359375
+    },
+    {
+        "LinesCapacityReward": 0.6544090599142096,
+        "__scores": 21162.1484375,
+        "grid_operation_cost": 21162.1484375
+    },
+    {
+        "LinesCapacityReward": 0.6552180628622732,
+        "__scores": 20196.328125,
+        "grid_operation_cost": 20196.328125
+    },
+    {
+        "LinesCapacityReward": 0.6510525775212114,
+        "__scores": 19360.1796875,
+        "grid_operation_cost": 19360.1796875
+    },
+    {
+        "LinesCapacityReward": 0.64735593077957,
+        "__scores": 18370.275390625,
+        "grid_operation_cost": 18370.275390625
+    },
+    {
+        "LinesCapacityReward": 0.6492905975669944,
+        "__scores": 17428.90625,
+        "grid_operation_cost": 17428.90625
+    },
+    {
+        "LinesCapacityReward": 0.6444132404942667,
+        "__scores": 16441.896484375,
+        "grid_operation_cost": 16441.896484375
+    },
+    {
+        "LinesCapacityReward": 0.6400059525684645,
+        "__scores": 16007.0732421875,
+        "grid_operation_cost": 16007.0732421875
+    },
+    {
+        "LinesCapacityReward": 0.6342217640210224,
+        "__scores": 15236.51953125,
+        "grid_operation_cost": 15236.51953125
+    },
+    {
+        "LinesCapacityReward": 0.6292261513330604,
+        "__scores": 14986.86328125,
+        "grid_operation_cost": 14986.86328125
+    },
+    {
+        "LinesCapacityReward": 0.6231089356125042,
+        "__scores": 14371.2265625,
+        "grid_operation_cost": 14371.2265625
+    },
+    {
+        "LinesCapacityReward": 0.6205542779737904,
+        "__scores": 13804.5703125,
+        "grid_operation_cost": 13804.5703125
+    },
+    {
+        "LinesCapacityReward": 0.6171508707026,
+        "__scores": 13422.12890625,
+        "grid_operation_cost": 13422.12890625
+    },
+    {
+        "LinesCapacityReward": 0.6161165134881132,
+        "__scores": 13190.7685546875,
+        "grid_operation_cost": 13190.7685546875
+    },
+    {
+        "LinesCapacityReward": 0.6157041570191742,
+        "__scores": 12745.8095703125,
+        "grid_operation_cost": 12745.8095703125
+    },
+    {
+        "LinesCapacityReward": 0.6160231969689811,
+        "__scores": 12413.34375,
+        "grid_operation_cost": 12413.34375
+    },
+    {
+        "LinesCapacityReward": 0.6204215429162467,
+        "__scores": 12076.966796875,
+        "grid_operation_cost": 12076.966796875
+    },
+    {
+        "LinesCapacityReward": 0.6240271291425151,
+        "__scores": 11826.0654296875,
+        "grid_operation_cost": 11826.0654296875
+    },
+    {
+        "LinesCapacityReward": 0.6301289220010081,
+        "__scores": 11483.3173828125,
+        "grid_operation_cost": 11483.3173828125
+    },
+    {
+        "LinesCapacityReward": 0.6343965017667381,
+        "__scores": 11301.5234375,
+        "grid_operation_cost": 11301.5234375
+    },
+    {
+        "LinesCapacityReward": 0.63909665999874,
+        "__scores": 11029.630859375,
+        "grid_operation_cost": 11029.630859375
+    },
+    {
+        "LinesCapacityReward": 0.6429387574554772,
+        "__scores": 11195.4697265625,
+        "grid_operation_cost": 11195.4697265625
+    },
+    {
+        "LinesCapacityReward": 0.6453550195181242,
+        "__scores": 10958.904296875,
+        "grid_operation_cost": 10958.904296875
+    },
+    {
+        "LinesCapacityReward": 0.6494631613454511,
+        "__scores": 11134.6806640625,
+        "grid_operation_cost": 11134.6806640625
+    },
+    {
+        "LinesCapacityReward": 0.6543739072738156,
+        "__scores": 11264.54296875,
+        "grid_operation_cost": 11264.54296875
+    },
+    {
+        "LinesCapacityReward": 0.6562826095088836,
+        "__scores": 11185.4951171875,
+        "grid_operation_cost": 11185.4951171875
+    },
+    {
+        "LinesCapacityReward": 0.6605641354796707,
+        "__scores": 11287.5810546875,
+        "grid_operation_cost": 11287.5810546875
+    },
+    {
+        "LinesCapacityReward": 0.662568348710255,
+        "__scores": 11245.029296875,
+        "grid_operation_cost": 11245.029296875
+    },
+    {
+        "LinesCapacityReward": 0.664409411850796,
+        "__scores": 11277.08984375,
+        "grid_operation_cost": 11277.08984375
+    },
+    {
+        "LinesCapacityReward": 0.6632010142008464,
+        "__scores": 11130.8583984375,
+        "grid_operation_cost": 11130.8583984375
+    },
+    {
+        "LinesCapacityReward": 0.6618409925891507,
+        "__scores": 11087.298828125,
+        "grid_operation_cost": 11087.298828125
+    },
+    {
+        "LinesCapacityReward": 0.6623549922820061,
+        "__scores": 10855.16015625,
+        "grid_operation_cost": 10855.16015625
+    },
+    {
+        "LinesCapacityReward": 0.662058348296791,
+        "__scores": 10725.9404296875,
+        "grid_operation_cost": 10725.9404296875
+    },
+    {
+        "LinesCapacityReward": 0.6615424207461779,
+        "__scores": 10354.7548828125,
+        "grid_operation_cost": 10354.7548828125
+    },
+    {
+        "LinesCapacityReward": 0.6622788213914441,
+        "__scores": 10049.2978515625,
+        "grid_operation_cost": 10049.2978515625
+    },
+    {
+        "LinesCapacityReward": 0.6614143207509031,
+        "__scores": 9702.7021484375,
+        "grid_operation_cost": 9702.7021484375
+    },
+    {
+        "LinesCapacityReward": 0.658358625186387,
+        "__scores": 9128.83203125,
+        "grid_operation_cost": 9128.83203125
+    },
+    {
+        "LinesCapacityReward": 0.6567619077620969,
+        "__scores": 8659.68359375,
+        "grid_operation_cost": 8659.68359375
+    },
+    {
+        "LinesCapacityReward": 0.6567104708763861,
+        "__scores": 8253.0078125,
+        "grid_operation_cost": 8253.0078125
+    },
+    {
+        "LinesCapacityReward": 0.6543074577085434,
+        "__scores": 8004.5,
+        "grid_operation_cost": 8004.5
+    },
+    {
+        "LinesCapacityReward": 0.6552713455692415,
+        "__scores": 7658.96630859375,
+        "grid_operation_cost": 7658.96630859375
+    },
+    {
+        "LinesCapacityReward": 0.6534899229644447,
+        "__scores": 7439.9248046875,
+        "grid_operation_cost": 7439.9248046875
+    },
+    {
+        "LinesCapacityReward": 0.652545149608325,
+        "__scores": 7422.84130859375,
+        "grid_operation_cost": 7422.84130859375
+    },
+    {
+        "LinesCapacityReward": 0.6518895138976395,
+        "__scores": 7315.5546875,
+        "grid_operation_cost": 7315.5546875
+    },
+    {
+        "LinesCapacityReward": 0.6514123896116852,
+        "__scores": 7326.3876953125,
+        "grid_operation_cost": 7326.3876953125
+    },
+    {
+        "LinesCapacityReward": 0.6510335450531335,
+        "__scores": 7287.52392578125,
+        "grid_operation_cost": 7287.52392578125
+    },
+    {
+        "LinesCapacityReward": 0.6497406087895876,
+        "__scores": 7388.29150390625,
+        "grid_operation_cost": 7388.29150390625
+    },
+    {
+        "LinesCapacityReward": 0.6503603945496262,
+        "__scores": 7406.0283203125,
+        "grid_operation_cost": 7406.0283203125
+    },
+    {
+        "LinesCapacityReward": 0.6492774307086904,
+        "__scores": 7423.935546875,
+        "grid_operation_cost": 7423.935546875
+    },
+    {
+        "LinesCapacityReward": 0.6482156322848412,
+        "__scores": 7525.55029296875,
+        "grid_operation_cost": 7525.55029296875
+    },
+    {
+        "LinesCapacityReward": 0.6485315138293851,
+        "__scores": 7584.03515625,
+        "grid_operation_cost": 7584.03515625
+    },
+    {
+        "LinesCapacityReward": 0.6486754468692247,
+        "__scores": 7580.1630859375,
+        "grid_operation_cost": 7580.1630859375
+    },
+    {
+        "LinesCapacityReward": 0.6478552869571154,
+        "__scores": 7667.66015625,
+        "grid_operation_cost": 7667.66015625
+    },
+    {
+        "LinesCapacityReward": 0.6475741068522136,
+        "__scores": 7636.1025390625,
+        "grid_operation_cost": 7636.1025390625
+    },
+    {
+        "LinesCapacityReward": 0.6464197302377352,
+        "__scores": 7710.630859375,
+        "grid_operation_cost": 7710.630859375
+    },
+    {
+        "LinesCapacityReward": 0.6456064613916541,
+        "__scores": 7754.390625,
+        "grid_operation_cost": 7754.390625
+    },
+    {
+        "LinesCapacityReward": 0.6438606836462534,
+        "__scores": 7742.48779296875,
+        "grid_operation_cost": 7742.48779296875
+    },
+    {
+        "LinesCapacityReward": 0.641783683530746,
+        "__scores": 7805.9130859375,
+        "grid_operation_cost": 7805.9130859375
+    },
+    {
+        "LinesCapacityReward": 0.6425620458459342,
+        "__scores": 7756.13623046875,
+        "grid_operation_cost": 7756.13623046875
+    },
+    {
+        "LinesCapacityReward": 0.6413385124616726,
+        "__scores": 7761.0263671875,
+        "grid_operation_cost": 7761.0263671875
+    },
+    {
+        "LinesCapacityReward": 0.6401219111616894,
+        "__scores": 7690.1875,
+        "grid_operation_cost": 7690.1875
+    },
+    {
+        "LinesCapacityReward": 0.6396280104114164,
+        "__scores": 7579.84033203125,
+        "grid_operation_cost": 7579.84033203125
+    },
+    {
+        "LinesCapacityReward": 0.6399642370080436,
+        "__scores": 7515.37939453125,
+        "grid_operation_cost": 7515.37939453125
+    },
+    {
+        "LinesCapacityReward": 0.6416124323362946,
+        "__scores": 7403.482421875,
+        "grid_operation_cost": 7403.482421875
+    },
+    {
+        "LinesCapacityReward": 0.6415547196583082,
+        "__scores": 7287.39794921875,
+        "grid_operation_cost": 7287.39794921875
+    },
+    {
+        "LinesCapacityReward": 0.6418878288679226,
+        "__scores": 7305.82861328125,
+        "grid_operation_cost": 7305.82861328125
+    },
+    {
+        "LinesCapacityReward": 0.6428412570748279,
+        "__scores": 7224.154296875,
+        "grid_operation_cost": 7224.154296875
+    },
+    {
+        "LinesCapacityReward": 0.6426966267247355,
+        "__scores": 7202.6142578125,
+        "grid_operation_cost": 7202.6142578125
+    },
+    {
+        "LinesCapacityReward": 0.6437903373472152,
+        "__scores": 7246.23291015625,
+        "grid_operation_cost": 7246.23291015625
+    },
+    {
+        "LinesCapacityReward": 0.6455525634109334,
+        "__scores": 7243.24853515625,
+        "grid_operation_cost": 7243.24853515625
+    },
+    {
+        "LinesCapacityReward": 0.6458478127756427,
+        "__scores": 7258.6240234375,
+        "grid_operation_cost": 7258.6240234375
+    },
+    {
+        "LinesCapacityReward": 0.646819822249874,
+        "__scores": 7294.65869140625,
+        "grid_operation_cost": 7294.65869140625
+    },
+    {
+        "LinesCapacityReward": 0.6483202698410199,
+        "__scores": 7271.349609375,
+        "grid_operation_cost": 7271.349609375
+    },
+    {
+        "LinesCapacityReward": 0.6479983175954511,
+        "__scores": 7312.26416015625,
+        "grid_operation_cost": 7312.26416015625
+    },
+    {
+        "LinesCapacityReward": 0.6485049340032762,
+        "__scores": 7295.33935546875,
+        "grid_operation_cost": 7295.33935546875
+    },
+    {
+        "LinesCapacityReward": 0.6489798433037215,
+        "__scores": 7337.3818359375,
+        "grid_operation_cost": 7337.3818359375
+    },
+    {
+        "LinesCapacityReward": 0.6487181058493994,
+        "__scores": 7379.89794921875,
+        "grid_operation_cost": 7379.89794921875
+    },
+    {
+        "LinesCapacityReward": 0.6481054162466399,
+        "__scores": 7413.091796875,
+        "grid_operation_cost": 7413.091796875
+    },
+    {
+        "LinesCapacityReward": 0.6507968287314139,
+        "__scores": 7428.943359375,
+        "grid_operation_cost": 7428.943359375
+    },
+    {
+        "LinesCapacityReward": 0.6505848464145456,
+        "__scores": 7476.4169921875,
+        "grid_operation_cost": 7476.4169921875
+    },
+    {
+        "LinesCapacityReward": 0.6527916692918347,
+        "__scores": 7490.4208984375,
+        "grid_operation_cost": 7490.4208984375
+    },
+    {
+        "LinesCapacityReward": 0.6545641499180949,
+        "__scores": 7488.3291015625,
+        "grid_operation_cost": 7488.3291015625
+    },
+    {
+        "LinesCapacityReward": 0.6548395054314726,
+        "__scores": 7539.3984375,
+        "grid_operation_cost": 7539.3984375
+    },
+    {
+        "LinesCapacityReward": 0.6564529583018314,
+        "__scores": 7521.2861328125,
+        "grid_operation_cost": 7521.2861328125
+    },
+    {
+        "LinesCapacityReward": 0.657009493920111,
+        "__scores": 7541.3212890625,
+        "grid_operation_cost": 7541.3212890625
+    },
+    {
+        "LinesCapacityReward": 0.659075911327075,
+        "__scores": 7540.41357421875,
+        "grid_operation_cost": 7540.41357421875
+    },
+    {
+        "LinesCapacityReward": 0.6594973943566764,
+        "__scores": 7554.57080078125,
+        "grid_operation_cost": 7554.57080078125
+    },
+    {
+        "LinesCapacityReward": 0.6592274327431956,
+        "__scores": 7610.00732421875,
+        "grid_operation_cost": 7610.00732421875
+    },
+    {
+        "LinesCapacityReward": 0.6600743160452894,
+        "__scores": 7645.83349609375,
+        "grid_operation_cost": 7645.83349609375
+    },
+    {
+        "LinesCapacityReward": 0.6595839223554057,
+        "__scores": 7728.87255859375,
+        "grid_operation_cost": 7728.87255859375
+    },
+    {
+        "LinesCapacityReward": 0.6575923837641234,
+        "__scores": 7866.1923828125,
+        "grid_operation_cost": 7866.1923828125
+    },
+    {
+        "LinesCapacityReward": 0.6593642901348812,
+        "__scores": 7868.97607421875,
+        "grid_operation_cost": 7868.97607421875
+    },
+    {
+        "LinesCapacityReward": 0.6597962328182754,
+        "__scores": 7894.9326171875,
+        "grid_operation_cost": 7894.9326171875
+    },
+    {
+        "LinesCapacityReward": 0.6581890762493176,
+        "__scores": 7928.07666015625,
+        "grid_operation_cost": 7928.07666015625
+    },
+    {
+        "LinesCapacityReward": 0.6584669543850807,
+        "__scores": 7769.6640625,
+        "grid_operation_cost": 7769.6640625
+    },
+    {
+        "LinesCapacityReward": 0.656995834842805,
+        "__scores": 7728.6357421875,
+        "grid_operation_cost": 7728.6357421875
+    },
+    {
+        "LinesCapacityReward": 0.6556639312415995,
+        "__scores": 7497.17626953125,
+        "grid_operation_cost": 7497.17626953125
+    },
+    {
+        "LinesCapacityReward": 0.6553765573809225,
+        "__scores": 7178.439453125,
+        "grid_operation_cost": 7178.439453125
+    },
+    {
+        "LinesCapacityReward": 0.6565770385085896,
+        "__scores": 7122.93310546875,
+        "grid_operation_cost": 7122.93310546875
+    },
+    {
+        "LinesCapacityReward": 0.6582548285043368,
+        "__scores": 7026.5498046875,
+        "grid_operation_cost": 7026.5498046875
+    },
+    {
+        "LinesCapacityReward": 0.6573919070664273,
+        "__scores": 6926.375,
+        "grid_operation_cost": 6926.375
+    },
+    {
+        "LinesCapacityReward": 0.6580720511815882,
+        "__scores": 6999.23095703125,
+        "grid_operation_cost": 6999.23095703125
+    },
+    {
+        "LinesCapacityReward": 0.6600766745946741,
+        "__scores": 7085.7890625,
+        "grid_operation_cost": 7085.7890625
+    },
+    {
+        "LinesCapacityReward": 0.6600518585533225,
+        "__scores": 7212.4326171875,
+        "grid_operation_cost": 7212.4326171875
+    },
+    {
+        "LinesCapacityReward": 0.6600526789183259,
+        "__scores": 7247.9130859375,
+        "grid_operation_cost": 7247.9130859375
+    },
+    {
+        "LinesCapacityReward": 0.6604037541215139,
+        "__scores": 7287.228515625,
+        "grid_operation_cost": 7287.228515625
+    },
+    {
+        "LinesCapacityReward": 0.6592027397565945,
+        "__scores": 7327.8251953125,
+        "grid_operation_cost": 7327.8251953125
+    },
+    {
+        "LinesCapacityReward": 0.6576615200247816,
+        "__scores": 7407.0625,
+        "grid_operation_cost": 7407.0625
+    },
+    {
+        "LinesCapacityReward": 0.656831761842133,
+        "__scores": 7418.0732421875,
+        "grid_operation_cost": 7418.0732421875
+    },
+    {
+        "LinesCapacityReward": 0.6562156472154843,
+        "__scores": 7481.4365234375,
+        "grid_operation_cost": 7481.4365234375
+    },
+    {
+        "LinesCapacityReward": 0.6537025205550656,
+        "__scores": 7540.6357421875,
+        "grid_operation_cost": 7540.6357421875
+    },
+    {
+        "LinesCapacityReward": 0.651456279139365,
+        "__scores": 7573.46533203125,
+        "grid_operation_cost": 7573.46533203125
+    },
+    {
+        "LinesCapacityReward": 0.6505401775401126,
+        "__scores": 7568.83056640625,
+        "grid_operation_cost": 7568.83056640625
+    },
+    {
+        "LinesCapacityReward": 0.6511186169039819,
+        "__scores": 7594.80615234375,
+        "grid_operation_cost": 7594.80615234375
+    },
+    {
+        "LinesCapacityReward": 0.6506426411290324,
+        "__scores": 7630.81591796875,
+        "grid_operation_cost": 7630.81591796875
+    },
+    {
+        "LinesCapacityReward": 0.6512418357274866,
+        "__scores": 7648.9853515625,
+        "grid_operation_cost": 7648.9853515625
+    },
+    {
+        "LinesCapacityReward": 0.6525901466287592,
+        "__scores": 7590.60791015625,
+        "grid_operation_cost": 7590.60791015625
+    },
+    {
+        "LinesCapacityReward": 0.6522428040863366,
+        "__scores": 7499.736328125,
+        "grid_operation_cost": 7499.736328125
+    },
+    {
+        "LinesCapacityReward": 0.6512550436040407,
+        "__scores": 7395.6171875,
+        "grid_operation_cost": 7395.6171875
+    },
+    {
+        "LinesCapacityReward": 0.650021706857989,
+        "__scores": 7322.63427734375,
+        "grid_operation_cost": 7322.63427734375
+    },
+    {
+        "LinesCapacityReward": 0.6496290801673807,
+        "__scores": 7197.43310546875,
+        "grid_operation_cost": 7197.43310546875
+    },
+    {
+        "LinesCapacityReward": 0.6500849980179982,
+        "__scores": 7156.310546875,
+        "grid_operation_cost": 7156.310546875
+    },
+    {
+        "LinesCapacityReward": 0.6505355834960938,
+        "__scores": 7026.25341796875,
+        "grid_operation_cost": 7026.25341796875
+    },
+    {
+        "LinesCapacityReward": 0.6514600528183804,
+        "__scores": 7112.19287109375,
+        "grid_operation_cost": 7112.19287109375
+    },
+    {
+        "LinesCapacityReward": 0.6536796323714719,
+        "__scores": 7091.89404296875,
+        "grid_operation_cost": 7091.89404296875
+    },
+    {
+        "LinesCapacityReward": 0.6566256041167885,
+        "__scores": 7095.669921875,
+        "grid_operation_cost": 7095.669921875
+    },
+    {
+        "LinesCapacityReward": 0.6590476292435842,
+        "__scores": 7081.3662109375,
+        "grid_operation_cost": 7081.3662109375
+    },
+    {
+        "LinesCapacityReward": 0.6617379547447287,
+        "__scores": 7104.90966796875,
+        "grid_operation_cost": 7104.90966796875
+    },
+    {
+        "LinesCapacityReward": 0.6642327462473224,
+        "__scores": 7189.50732421875,
+        "grid_operation_cost": 7189.50732421875
+    },
+    {
+        "LinesCapacityReward": 0.6661942594794817,
+        "__scores": 7296.1552734375,
+        "grid_operation_cost": 7296.1552734375
+    },
+    {
+        "LinesCapacityReward": 0.6683760612241684,
+        "__scores": 7237.38525390625,
+        "grid_operation_cost": 7237.38525390625
+    },
+    {
+        "LinesCapacityReward": 0.6700181858513945,
+        "__scores": 7283.19775390625,
+        "grid_operation_cost": 7283.19775390625
+    },
+    {
+        "LinesCapacityReward": 0.6704673356907342,
+        "__scores": 7262.671875,
+        "grid_operation_cost": 7262.671875
+    },
+    {
+        "LinesCapacityReward": 0.6718358275710896,
+        "__scores": 7180.810546875,
+        "grid_operation_cost": 7180.810546875
+    },
+    {
+        "LinesCapacityReward": 0.6725525394562752,
+        "__scores": 7218.02294921875,
+        "grid_operation_cost": 7218.02294921875
+    },
+    {
+        "LinesCapacityReward": 0.67195309874832,
+        "__scores": 7212.95361328125,
+        "grid_operation_cost": 7212.95361328125
+    },
+    {
+        "LinesCapacityReward": 0.6724764300930886,
+        "__scores": 7218.3173828125,
+        "grid_operation_cost": 7218.3173828125
+    },
+    {
+        "LinesCapacityReward": 0.6727102956464214,
+        "__scores": 7248.12060546875,
+        "grid_operation_cost": 7248.12060546875
+    },
+    {
+        "LinesCapacityReward": 0.6720220914451025,
+        "__scores": 7213.7578125,
+        "grid_operation_cost": 7213.7578125
+    },
+    {
+        "LinesCapacityReward": 0.6727500423308342,
+        "__scores": 7236.22216796875,
+        "grid_operation_cost": 7236.22216796875
+    },
+    {
+        "LinesCapacityReward": 0.6729017893473308,
+        "__scores": 7241.091796875,
+        "grid_operation_cost": 7241.091796875
+    },
+    {
+        "LinesCapacityReward": 0.6728274027506511,
+        "__scores": 7234.9052734375,
+        "grid_operation_cost": 7234.9052734375
+    },
+    {
+        "LinesCapacityReward": 0.6726497527091735,
+        "__scores": 7231.0654296875,
+        "grid_operation_cost": 7231.0654296875
+    },
+    {
+        "LinesCapacityReward": 0.6740518590455414,
+        "__scores": 7200.2578125,
+        "grid_operation_cost": 7200.2578125
+    },
+    {
+        "LinesCapacityReward": 0.6736094567083544,
+        "__scores": 7195.021484375,
+        "grid_operation_cost": 7195.021484375
+    },
+    {
+        "LinesCapacityReward": 0.6731434073499455,
+        "__scores": 7209.388671875,
+        "grid_operation_cost": 7209.388671875
+    },
+    {
+        "LinesCapacityReward": 0.6734366058021464,
+        "__scores": 7197.72021484375,
+        "grid_operation_cost": 7197.72021484375
+    },
+    {
+        "LinesCapacityReward": 0.6716287879533666,
+        "__scores": 7195.64794921875,
+        "grid_operation_cost": 7195.64794921875
+    },
+    {
+        "LinesCapacityReward": 0.6714505841655116,
+        "__scores": 7216.5498046875,
+        "grid_operation_cost": 7216.5498046875
+    },
+    {
+        "LinesCapacityReward": 0.6725665266795825,
+        "__scores": 7180.17529296875,
+        "grid_operation_cost": 7180.17529296875
+    },
+    {
+        "LinesCapacityReward": 0.6746375381305654,
+        "__scores": 7210.32861328125,
+        "grid_operation_cost": 7210.32861328125
+    },
+    {
+        "LinesCapacityReward": 0.6741125660557902,
+        "__scores": 7212.93896484375,
+        "grid_operation_cost": 7212.93896484375
+    },
+    {
+        "LinesCapacityReward": 0.6738437529533141,
+        "__scores": 7240.18115234375,
+        "grid_operation_cost": 7240.18115234375
+    },
+    {
+        "LinesCapacityReward": 0.6737478317752962,
+        "__scores": 7235.62255859375,
+        "grid_operation_cost": 7235.62255859375
+    },
+    {
+        "LinesCapacityReward": 0.6730177684496809,
+        "__scores": 7179.904296875,
+        "grid_operation_cost": 7179.904296875
+    },
+    {
+        "LinesCapacityReward": 0.6725396597257225,
+        "__scores": 7189.0966796875,
+        "grid_operation_cost": 7189.0966796875
+    },
+    {
+        "LinesCapacityReward": 0.6734386772237799,
+        "__scores": 7096.61962890625,
+        "grid_operation_cost": 7096.61962890625
+    },
+    {
+        "LinesCapacityReward": 0.6724945806687879,
+        "__scores": 7095.84130859375,
+        "grid_operation_cost": 7095.84130859375
+    },
+    {
+        "LinesCapacityReward": 0.6739539279732654,
+        "__scores": 7004.53173828125,
+        "grid_operation_cost": 7004.53173828125
+    },
+    {
+        "LinesCapacityReward": 0.675249981623824,
+        "__scores": 6912.2216796875,
+        "grid_operation_cost": 6912.2216796875
+    },
+    {
+        "LinesCapacityReward": 0.6777303962297337,
+        "__scores": 6961.1162109375,
+        "grid_operation_cost": 6961.1162109375
+    },
+    {
+        "LinesCapacityReward": 0.6793052919449345,
+        "__scores": 7040.95361328125,
+        "grid_operation_cost": 7040.95361328125
+    },
+    {
+        "LinesCapacityReward": 0.6811224004273774,
+        "__scores": 7069.97607421875,
+        "grid_operation_cost": 7069.97607421875
+    },
+    {
+        "LinesCapacityReward": 0.6828453720256847,
+        "__scores": 7121.63232421875,
+        "grid_operation_cost": 7121.63232421875
+    },
+    {
+        "LinesCapacityReward": 0.6841053911434707,
+        "__scores": 7122.1201171875,
+        "grid_operation_cost": 7122.1201171875
+    },
+    {
+        "LinesCapacityReward": 0.6850638440860216,
+        "__scores": 7166.02001953125,
+        "grid_operation_cost": 7166.02001953125
+    },
+    {
+        "LinesCapacityReward": 0.6851874320737777,
+        "__scores": 7106.09765625,
+        "grid_operation_cost": 7106.09765625
+    },
+    {
+        "LinesCapacityReward": 0.6866953449864542,
+        "__scores": 7096.55859375,
+        "grid_operation_cost": 7096.55859375
+    },
+    {
+        "LinesCapacityReward": 0.6873387982768397,
+        "__scores": 7061.7861328125,
+        "grid_operation_cost": 7061.7861328125
+    },
+    {
+        "LinesCapacityReward": 0.6885370234007477,
+        "__scores": 7013.29150390625,
+        "grid_operation_cost": 7013.29150390625
+    },
+    {
+        "LinesCapacityReward": 0.6876681748256889,
+        "__scores": 6899.63134765625,
+        "grid_operation_cost": 6899.63134765625
+    },
+    {
+        "LinesCapacityReward": 0.6877982847152219,
+        "__scores": 6948.1005859375,
+        "grid_operation_cost": 6948.1005859375
+    },
+    {
+        "LinesCapacityReward": 0.6872317611530263,
+        "__scores": 6904.21044921875,
+        "grid_operation_cost": 6904.21044921875
+    },
+    {
+        "LinesCapacityReward": 0.6875987309281545,
+        "__scores": 6811.65478515625,
+        "grid_operation_cost": 6811.65478515625
+    },
+    {
+        "LinesCapacityReward": 0.6885970946281188,
+        "__scores": 6818.54931640625,
+        "grid_operation_cost": 6818.54931640625
+    },
+    {
+        "LinesCapacityReward": 0.6870083962717365,
+        "__scores": 6768.70068359375,
+        "grid_operation_cost": 6768.70068359375
+    },
+    {
+        "LinesCapacityReward": 0.6864365608461442,
+        "__scores": 6792.7119140625,
+        "grid_operation_cost": 6792.7119140625
+    },
+    {
+        "LinesCapacityReward": 0.6859546989522955,
+        "__scores": 6712.3935546875,
+        "grid_operation_cost": 6712.3935546875
+    },
+    {
+        "LinesCapacityReward": 0.6860246760870822,
+        "__scores": 6705.37939453125,
+        "grid_operation_cost": 6705.37939453125
+    },
+    {
+        "LinesCapacityReward": 0.6855697426744687,
+        "__scores": 6697.08056640625,
+        "grid_operation_cost": 6697.08056640625
+    },
+    {
+        "LinesCapacityReward": 0.6833429028910976,
+        "__scores": 6710.0546875,
+        "grid_operation_cost": 6710.0546875
+    },
+    {
+        "LinesCapacityReward": 0.680991203554215,
+        "__scores": 6697.55908203125,
+        "grid_operation_cost": 6697.55908203125
+    },
+    {
+        "LinesCapacityReward": 0.6787782894667759,
+        "__scores": 6716.54833984375,
+        "grid_operation_cost": 6716.54833984375
+    },
+    {
+        "LinesCapacityReward": 0.6763954162597656,
+        "__scores": 6762.02978515625,
+        "grid_operation_cost": 6762.02978515625
+    },
+    {
+        "LinesCapacityReward": 0.6733064138761131,
+        "__scores": 6767.29052734375,
+        "grid_operation_cost": 6767.29052734375
+    },
+    {
+        "LinesCapacityReward": 0.6709760030110677,
+        "__scores": 6781.994140625,
+        "grid_operation_cost": 6781.994140625
+    },
+    {
+        "LinesCapacityReward": 0.6701344315723707,
+        "__scores": 6909.59716796875,
+        "grid_operation_cost": 6909.59716796875
+    },
+    {
+        "LinesCapacityReward": 0.6696903679960517,
+        "__scores": 6986.62451171875,
+        "grid_operation_cost": 6986.62451171875
+    },
+    {
+        "LinesCapacityReward": 0.670641335107947,
+        "__scores": 6950.09423828125,
+        "grid_operation_cost": 6950.09423828125
+    },
+    {
+        "LinesCapacityReward": 0.6694336757865004,
+        "__scores": 7080.1767578125,
+        "grid_operation_cost": 7080.1767578125
+    },
+    {
+        "LinesCapacityReward": 0.6679937711326025,
+        "__scores": 7168.0791015625,
+        "grid_operation_cost": 7168.0791015625
+    },
+    {
+        "LinesCapacityReward": 0.6675083611601142,
+        "__scores": 7201.57373046875,
+        "grid_operation_cost": 7201.57373046875
+    },
+    {
+        "LinesCapacityReward": 0.6665158835790491,
+        "__scores": 7199.5322265625,
+        "grid_operation_cost": 7199.5322265625
+    },
+    {
+        "LinesCapacityReward": 0.6650174048639114,
+        "__scores": 7217.03271484375,
+        "grid_operation_cost": 7217.03271484375
+    },
+    {
+        "LinesCapacityReward": 0.6684812935449744,
+        "__scores": 7334.26025390625,
+        "grid_operation_cost": 7334.26025390625
+    },
+    {
+        "LinesCapacityReward": 0.6701905035203504,
+        "__scores": 7421.849609375,
+        "grid_operation_cost": 7421.849609375
+    },
+    {
+        "LinesCapacityReward": 0.6729491859353999,
+        "__scores": 7578.99267578125,
+        "grid_operation_cost": 7578.99267578125
+    },
+    {
+        "LinesCapacityReward": 0.6736286122311829,
+        "__scores": 7692.501953125,
+        "grid_operation_cost": 7692.501953125
+    },
+    {
+        "LinesCapacityReward": 0.6761876793317898,
+        "__scores": 7834.51416015625,
+        "grid_operation_cost": 7834.51416015625
+    },
+    {
+        "LinesCapacityReward": 0.6765589970414357,
+        "__scores": 8070.81396484375,
+        "grid_operation_cost": 8070.81396484375
+    },
+    {
+        "LinesCapacityReward": 0.6784108479817709,
+        "__scores": 8105.5625,
+        "grid_operation_cost": 8105.5625
+    },
+    {
+        "LinesCapacityReward": 0.679963593841881,
+        "__scores": 8080.18603515625,
+        "grid_operation_cost": 8080.18603515625
+    },
+    {
+        "LinesCapacityReward": 0.6789988856161795,
+        "__scores": 8168.35546875,
+        "grid_operation_cost": 8168.35546875
+    },
+    {
+        "LinesCapacityReward": 0.679455787904801,
+        "__scores": 8193.3203125,
+        "grid_operation_cost": 8193.3203125
+    },
+    {
+        "LinesCapacityReward": 0.6790761229812459,
+        "__scores": 8161.74658203125,
+        "grid_operation_cost": 8161.74658203125
+    },
+    {
+        "LinesCapacityReward": 0.6791888411327075,
+        "__scores": 8208.236328125,
+        "grid_operation_cost": 8208.236328125
+    },
+    {
+        "LinesCapacityReward": 0.6767386979954217,
+        "__scores": 8455.5126953125,
+        "grid_operation_cost": 8455.5126953125
+    },
+    {
+        "LinesCapacityReward": 0.6758456281436388,
+        "__scores": 8575.3662109375,
+        "grid_operation_cost": 8575.3662109375
+    },
+    {
+        "LinesCapacityReward": 0.6736640109810779,
+        "__scores": 8737.375,
+        "grid_operation_cost": 8737.375
+    },
+    {
+        "LinesCapacityReward": 0.6712369201003865,
+        "__scores": 8990.9052734375,
+        "grid_operation_cost": 8990.9052734375
+    },
+    {
+        "LinesCapacityReward": 0.6683280083440966,
+        "__scores": 9322.25390625,
+        "grid_operation_cost": 9322.25390625
+    },
+    {
+        "LinesCapacityReward": 0.6662026477116411,
+        "__scores": 9690.5205078125,
+        "grid_operation_cost": 9690.5205078125
+    },
+    {
+        "LinesCapacityReward": 0.6612045534195439,
+        "__scores": 9991.630859375,
+        "grid_operation_cost": 9991.630859375
+    },
+    {
+        "LinesCapacityReward": 0.6590208443262244,
+        "__scores": 10491.2314453125,
+        "grid_operation_cost": 10491.2314453125
+    },
+    {
+        "LinesCapacityReward": 0.657952872655725,
+        "__scores": 10947.6162109375,
+        "grid_operation_cost": 10947.6162109375
+    },
+    {
+        "LinesCapacityReward": 0.6578189685780516,
+        "__scores": 11807.326171875,
+        "grid_operation_cost": 11807.326171875
+    },
+    {
+        "LinesCapacityReward": 0.6569705470915764,
+        "__scores": 12242.0244140625,
+        "grid_operation_cost": 12242.0244140625
+    },
+    {
+        "LinesCapacityReward": 0.6561007345876386,
+        "__scores": 12927.212890625,
+        "grid_operation_cost": 12927.212890625
+    },
+    {
+        "LinesCapacityReward": 0.6548178888136341,
+        "__scores": 13842.3681640625,
+        "grid_operation_cost": 13842.3681640625
+    },
+    {
+        "LinesCapacityReward": 0.6534078864641087,
+        "__scores": 14469.662109375,
+        "grid_operation_cost": 14469.662109375
+    },
+    {
+        "LinesCapacityReward": 0.651302952920237,
+        "__scores": 15095.873046875,
+        "grid_operation_cost": 15095.873046875
+    },
+    {
+        "LinesCapacityReward": 0.6542762428201655,
+        "__scores": 15756.4052734375,
+        "grid_operation_cost": 15756.4052734375
+    },
+    {
+        "LinesCapacityReward": 0.6544786678847446,
+        "__scores": 16792.6953125,
+        "grid_operation_cost": 16792.6953125
+    },
+    {
+        "LinesCapacityReward": 0.6517820050639491,
+        "__scores": 17406.775390625,
+        "grid_operation_cost": 17406.775390625
+    },
+    {
+        "LinesCapacityReward": 0.6524068360687585,
+        "__scores": 17758.697265625,
+        "grid_operation_cost": 17758.697265625
+    },
+    {
+        "LinesCapacityReward": 0.6511289535030242,
+        "__scores": 18661.078125,
+        "grid_operation_cost": 18661.078125
+    },
+    {
+        "LinesCapacityReward": 0.6552843073362946,
+        "__scores": 19110.58984375,
+        "grid_operation_cost": 19110.58984375
+    },
+    {
+        "LinesCapacityReward": 0.653632051201277,
+        "__scores": 19536.62890625,
+        "grid_operation_cost": 19536.62890625
+    },
+    {
+        "LinesCapacityReward": 0.650270728654759,
+        "__scores": 20121.453125,
+        "grid_operation_cost": 20121.453125
+    },
+    {
+        "LinesCapacityReward": 0.652200432233913,
+        "__scores": 20365.884765625,
+        "grid_operation_cost": 20365.884765625
+    },
+    {
+        "LinesCapacityReward": 0.6497452438518566,
+        "__scores": 20510.728515625,
+        "grid_operation_cost": 20510.728515625
+    },
+    {
+        "LinesCapacityReward": 0.6480548407441826,
+        "__scores": 20827.91796875,
+        "grid_operation_cost": 20827.91796875
+    },
+    {
+        "LinesCapacityReward": 0.6445261637369792,
+        "__scores": 20954.03125,
+        "grid_operation_cost": 20954.03125
+    },
+    {
+        "LinesCapacityReward": 0.6467730614446825,
+        "__scores": 21251.802734375,
+        "grid_operation_cost": 21251.802734375
+    },
+    {
+        "LinesCapacityReward": 0.6428092218214466,
+        "__scores": 21214.9921875,
+        "grid_operation_cost": 21214.9921875
+    },
+    {
+        "LinesCapacityReward": 0.6442289454962619,
+        "__scores": 21325.853515625,
+        "grid_operation_cost": 21325.853515625
+    },
+    {
+        "LinesCapacityReward": 0.6407423942319809,
+        "__scores": 20912.083984375,
+        "grid_operation_cost": 20912.083984375
+    },
+    {
+        "LinesCapacityReward": 0.6442693484726773,
+        "__scores": 21452.134765625,
+        "grid_operation_cost": 21452.134765625
+    },
+    {
+        "LinesCapacityReward": 0.6407437888524866,
+        "__scores": 21000.76171875,
+        "grid_operation_cost": 21000.76171875
+    },
+    {
+        "LinesCapacityReward": 0.6415999217699934,
+        "__scores": 21201.087890625,
+        "grid_operation_cost": 21201.087890625
+    },
+    {
+        "LinesCapacityReward": 0.638534176734186,
+        "__scores": 21153.53125,
+        "grid_operation_cost": 21153.53125
+    },
+    {
+        "LinesCapacityReward": 0.6396899069509199,
+        "__scores": 21309.365234375,
+        "grid_operation_cost": 21309.365234375
+    },
+    {
+        "LinesCapacityReward": 0.6365801083144321,
+        "__scores": 21224.193359375,
+        "grid_operation_cost": 21224.193359375
+    },
+    {
+        "LinesCapacityReward": 0.6371887371104251,
+        "__scores": 21263.384765625,
+        "grid_operation_cost": 21263.384765625
+    },
+    {
+        "LinesCapacityReward": 0.6328701306414861,
+        "__scores": 21470.880859375,
+        "grid_operation_cost": 21470.880859375
+    },
+    {
+        "LinesCapacityReward": 0.6339684763262349,
+        "__scores": 21332.826171875,
+        "grid_operation_cost": 21332.826171875
+    },
+    {
+        "LinesCapacityReward": 0.6276441594605805,
+        "__scores": 21459.416015625,
+        "grid_operation_cost": 21459.416015625
+    },
+    {
+        "LinesCapacityReward": 0.6354526806903142,
+        "__scores": 18811.76171875,
+        "grid_operation_cost": 18811.76171875
+    },
+    {
+        "LinesCapacityReward": 0.6480674333469842,
+        "__scores": 17227.921875,
+        "grid_operation_cost": 17227.921875
+    },
+    {
+        "LinesCapacityReward": 0.6461968370663222,
+        "__scores": 18947.59375,
+        "grid_operation_cost": 18947.59375
+    },
+    {
+        "LinesCapacityReward": 0.6476727557438676,
+        "__scores": 19055.208984375,
+        "grid_operation_cost": 19055.208984375
+    },
+    {
+        "LinesCapacityReward": 0.6475859611265121,
+        "__scores": 18898.923828125,
+        "grid_operation_cost": 18898.923828125
+    },
+    {
+        "LinesCapacityReward": 0.6492686117849042,
+        "__scores": 19174.7109375,
+        "grid_operation_cost": 19174.7109375
+    },
+    {
+        "LinesCapacityReward": 0.6500159643029655,
+        "__scores": 19134.01953125,
+        "grid_operation_cost": 19134.01953125
+    },
+    {
+        "LinesCapacityReward": 0.6526683274135795,
+        "__scores": 19547.53515625,
+        "grid_operation_cost": 19547.53515625
+    },
+    {
+        "LinesCapacityReward": 0.6523687301143524,
+        "__scores": 19437.935546875,
+        "grid_operation_cost": 19437.935546875
+    },
+    {
+        "LinesCapacityReward": 0.650887930265037,
+        "__scores": 19428.3671875,
+        "grid_operation_cost": 19428.3671875
+    },
+    {
+        "LinesCapacityReward": 0.6511763706002185,
+        "__scores": 19512.056640625,
+        "grid_operation_cost": 19512.056640625
+    },
+    {
+        "LinesCapacityReward": 0.6537706108503445,
+        "__scores": 20089.60546875,
+        "grid_operation_cost": 20089.60546875
+    },
+    {
+        "LinesCapacityReward": 0.6508266900175361,
+        "__scores": 19448.072265625,
+        "grid_operation_cost": 19448.072265625
+    },
+    {
+        "LinesCapacityReward": 0.6541685699134745,
+        "__scores": 19996.384765625,
+        "grid_operation_cost": 19996.384765625
+    },
+    {
+        "LinesCapacityReward": 0.6506987951135124,
+        "__scores": 19997.640625,
+        "grid_operation_cost": 19997.640625
+    },
+    {
+        "LinesCapacityReward": 0.6499519758327034,
+        "__scores": 19871.72265625,
+        "grid_operation_cost": 19871.72265625
+    },
+    {
+        "LinesCapacityReward": 0.6524649999474967,
+        "__scores": 20125.169921875,
+        "grid_operation_cost": 20125.169921875
+    },
+    {
+        "LinesCapacityReward": 0.6514717430196784,
+        "__scores": 20101.548828125,
+        "grid_operation_cost": 20101.548828125
+    },
+    {
+        "LinesCapacityReward": 0.6496334691201487,
+        "__scores": 19959.826171875,
+        "grid_operation_cost": 19959.826171875
+    },
+    {
+        "LinesCapacityReward": 0.6494580340641801,
+        "__scores": 20245.08203125,
+        "grid_operation_cost": 20245.08203125
+    },
+    {
+        "LinesCapacityReward": 0.6551728607505881,
+        "__scores": 20030.97265625,
+        "grid_operation_cost": 20030.97265625
+    },
+    {
+        "LinesCapacityReward": 0.6508411694598455,
+        "__scores": 19904.8828125,
+        "grid_operation_cost": 19904.8828125
+    },
+    {
+        "LinesCapacityReward": 0.6518543202389954,
+        "__scores": 19850.705078125,
+        "grid_operation_cost": 19850.705078125
+    },
+    {
+        "LinesCapacityReward": 0.6531632126018566,
+        "__scores": 19679.619140625,
+        "grid_operation_cost": 19679.619140625
+    },
+    {
+        "LinesCapacityReward": 0.6551304478799144,
+        "__scores": 19670.173828125,
+        "grid_operation_cost": 19670.173828125
+    },
+    {
+        "LinesCapacityReward": 0.652815418858682,
+        "__scores": 19595.341796875,
+        "grid_operation_cost": 19595.341796875
+    },
+    {
+        "LinesCapacityReward": 0.6545115645213794,
+        "__scores": 19236.236328125,
+        "grid_operation_cost": 19236.236328125
+    },
+    {
+        "LinesCapacityReward": 0.6526861703524026,
+        "__scores": 19197.7109375,
+        "grid_operation_cost": 19197.7109375
+    },
+    {
+        "LinesCapacityReward": 0.6454019082559121,
+        "__scores": 18775.59765625,
+        "grid_operation_cost": 18775.59765625
+    },
+    {
+        "LinesCapacityReward": 0.6353284681165541,
+        "__scores": 21317.646484375,
+        "grid_operation_cost": 21317.646484375
+    },
+    {
+        "LinesCapacityReward": 0.6323304872255068,
+        "__scores": 19453.671875,
+        "grid_operation_cost": 19453.671875
+    },
+    {
+        "LinesCapacityReward": 0.6304634300438133,
+        "__scores": 19385.291015625,
+        "grid_operation_cost": 19385.291015625
+    },
+    {
+        "LinesCapacityReward": 0.6334399249102619,
+        "__scores": 19356.654296875,
+        "grid_operation_cost": 19356.654296875
+    },
+    {
+        "LinesCapacityReward": 0.6327399588919975,
+        "__scores": 19065.564453125,
+        "grid_operation_cost": 19065.564453125
+    },
+    {
+        "LinesCapacityReward": 0.6329436431059967,
+        "__scores": 19160.25,
+        "grid_operation_cost": 19160.25
+    },
+    {
+        "LinesCapacityReward": 0.6345285776499155,
+        "__scores": 18786.1015625,
+        "grid_operation_cost": 18786.1015625
+    },
+    {
+        "LinesCapacityReward": 0.6344835436021959,
+        "__scores": 18612.294921875,
+        "grid_operation_cost": 18612.294921875
+    },
+    {
+        "LinesCapacityReward": 0.6363276301203548,
+        "__scores": 18987.6328125,
+        "grid_operation_cost": 18987.6328125
+    },
+    {
+        "LinesCapacityReward": 0.6373187915698902,
+        "__scores": 18511.869140625,
+        "grid_operation_cost": 18511.869140625
+    },
+    {
+        "LinesCapacityReward": 0.6396817593961149,
+        "__scores": 18594.326171875,
+        "grid_operation_cost": 18594.326171875
+    },
+    {
+        "LinesCapacityReward": 0.6396881103515626,
+        "__scores": 18892.19140625,
+        "grid_operation_cost": 18892.19140625
+    },
+    {
+        "LinesCapacityReward": 0.6414538821658573,
+        "__scores": 18555.20703125,
+        "grid_operation_cost": 18555.20703125
+    },
+    {
+        "LinesCapacityReward": 0.6418284648173564,
+        "__scores": 18583.2265625,
+        "grid_operation_cost": 18583.2265625
+    },
+    {
+        "LinesCapacityReward": 0.6440832189611487,
+        "__scores": 18610.71875,
+        "grid_operation_cost": 18610.71875
+    },
+    {
+        "LinesCapacityReward": 0.6448565921267948,
+        "__scores": 18732.990234375,
+        "grid_operation_cost": 18732.990234375
+    },
+    {
+        "LinesCapacityReward": 0.6448278478673987,
+        "__scores": 18831.310546875,
+        "grid_operation_cost": 18831.310546875
+    },
+    {
+        "LinesCapacityReward": 0.6470837567303632,
+        "__scores": 18809.724609375,
+        "grid_operation_cost": 18809.724609375
+    },
+    {
+        "LinesCapacityReward": 0.6478773374815245,
+        "__scores": 18773.185546875,
+        "grid_operation_cost": 18773.185546875
+    },
+    {
+        "LinesCapacityReward": 0.6478757703626479,
+        "__scores": 18824.462890625,
+        "grid_operation_cost": 18824.462890625
+    },
+    {
+        "LinesCapacityReward": 0.6475067138671875,
+        "__scores": 18177.26171875,
+        "grid_operation_cost": 18177.26171875
+    },
+    {
+        "LinesCapacityReward": 0.6494333215661952,
+        "__scores": 17905.216796875,
+        "grid_operation_cost": 17905.216796875
+    },
+    {
+        "LinesCapacityReward": 0.6511894844673776,
+        "__scores": 17482.64453125,
+        "grid_operation_cost": 17482.64453125
+    },
+    {
+        "LinesCapacityReward": 0.6519475576039907,
+        "__scores": 17304.24609375,
+        "grid_operation_cost": 17304.24609375
+    },
+    {
+        "LinesCapacityReward": 0.6535891971072636,
+        "__scores": 16422.078125,
+        "grid_operation_cost": 16422.078125
+    },
+    {
+        "LinesCapacityReward": 0.655795329325908,
+        "__scores": 16098.8701171875,
+        "grid_operation_cost": 16098.8701171875
+    },
+    {
+        "LinesCapacityReward": 0.6575026641020905,
+        "__scores": 15538.080078125,
+        "grid_operation_cost": 15538.080078125
+    },
+    {
+        "LinesCapacityReward": 0.6583421449403506,
+        "__scores": 14894.7509765625,
+        "grid_operation_cost": 14894.7509765625
+    },
+    {
+        "LinesCapacityReward": 0.6594049814585093,
+        "__scores": 14486.65234375,
+        "grid_operation_cost": 14486.65234375
+    },
+    {
+        "LinesCapacityReward": 0.6613013808791702,
+        "__scores": 13972.8193359375,
+        "grid_operation_cost": 13972.8193359375
+    },
+    {
+        "LinesCapacityReward": 0.6704161449145246,
+        "__scores": 13618.8076171875,
+        "grid_operation_cost": 13618.8076171875
+    },
+    {
+        "LinesCapacityReward": 0.6702618342573925,
+        "__scores": 13212.5107421875,
+        "grid_operation_cost": 13212.5107421875
+    },
+    {
+        "LinesCapacityReward": 0.6717425110519574,
+        "__scores": 12902.349609375,
+        "grid_operation_cost": 12902.349609375
+    },
+    {
+        "LinesCapacityReward": 0.6725369730303365,
+        "__scores": 12734.603515625,
+        "grid_operation_cost": 12734.603515625
+    },
+    {
+        "LinesCapacityReward": 0.6738467472855764,
+        "__scores": 12616.673828125,
+        "grid_operation_cost": 12616.673828125
+    },
+    {
+        "LinesCapacityReward": 0.6746079229539441,
+        "__scores": 12269.849609375,
+        "grid_operation_cost": 12269.849609375
+    },
+    {
+        "LinesCapacityReward": 0.6738072467106645,
+        "__scores": 12244.7548828125,
+        "grid_operation_cost": 12244.7548828125
+    },
+    {
+        "LinesCapacityReward": 0.6762082089659989,
+        "__scores": 12163.8984375,
+        "grid_operation_cost": 12163.8984375
+    },
+    {
+        "LinesCapacityReward": 0.6763775117935673,
+        "__scores": 12007.2998046875,
+        "grid_operation_cost": 12007.2998046875
+    },
+    {
+        "LinesCapacityReward": 0.6770071624427714,
+        "__scores": 11852.208984375,
+        "grid_operation_cost": 11852.208984375
+    },
+    {
+        "LinesCapacityReward": 0.6785709627213017,
+        "__scores": 11640.767578125,
+        "grid_operation_cost": 11640.767578125
+    },
+    {
+        "LinesCapacityReward": 0.6793487917992377,
+        "__scores": 11300.9150390625,
+        "grid_operation_cost": 11300.9150390625
+    },
+    {
+        "LinesCapacityReward": 0.6782166675854755,
+        "__scores": 10963.2724609375,
+        "grid_operation_cost": 10963.2724609375
+    },
+    {
+        "LinesCapacityReward": 0.6784222100370674,
+        "__scores": 10357.1982421875,
+        "grid_operation_cost": 10357.1982421875
+    },
+    {
+        "LinesCapacityReward": 0.6748862522904592,
+        "__scores": 9577.16796875,
+        "grid_operation_cost": 9577.16796875
+    },
+    {
+        "LinesCapacityReward": 0.6731520211824807,
+        "__scores": 8956.7138671875,
+        "grid_operation_cost": 8956.7138671875
+    },
+    {
+        "LinesCapacityReward": 0.6694879634405978,
+        "__scores": 8192.19140625,
+        "grid_operation_cost": 8192.19140625
+    },
+    {
+        "LinesCapacityReward": 0.6682335433139597,
+        "__scores": 7755.046875,
+        "grid_operation_cost": 7755.046875
+    },
+    {
+        "LinesCapacityReward": 0.6651698286815356,
+        "__scores": 7317.01806640625,
+        "grid_operation_cost": 7317.01806640625
+    },
+    {
+        "LinesCapacityReward": 0.6619965953211631,
+        "__scores": 7093.38525390625,
+        "grid_operation_cost": 7093.38525390625
+    },
+    {
+        "LinesCapacityReward": 0.660359126265331,
+        "__scores": 6815.669921875,
+        "grid_operation_cost": 6815.669921875
+    },
+    {
+        "LinesCapacityReward": 0.6587993252661921,
+        "__scores": 6713.544921875,
+        "grid_operation_cost": 6713.544921875
+    },
+    {
+        "LinesCapacityReward": 0.6570054946407196,
+        "__scores": 6666.8232421875,
+        "grid_operation_cost": 6666.8232421875
+    },
+    {
+        "LinesCapacityReward": 0.6535732720487861,
+        "__scores": 6653.138671875,
+        "grid_operation_cost": 6653.138671875
+    },
+    {
+        "LinesCapacityReward": 0.6536864824192499,
+        "__scores": 6786.32666015625,
+        "grid_operation_cost": 6786.32666015625
+    },
+    {
+        "LinesCapacityReward": 0.6526797715053764,
+        "__scores": 6777.58984375,
+        "grid_operation_cost": 6777.58984375
+    },
+    {
+        "LinesCapacityReward": 0.6525232458627352,
+        "__scores": 6853.88330078125,
+        "grid_operation_cost": 6853.88330078125
+    },
+    {
+        "LinesCapacityReward": 0.6530904462260585,
+        "__scores": 6930.0634765625,
+        "grid_operation_cost": 6930.0634765625
+    },
+    {
+        "LinesCapacityReward": 0.6526314520066785,
+        "__scores": 6981.5224609375,
+        "grid_operation_cost": 6981.5224609375
+    },
+    {
+        "LinesCapacityReward": 0.6512636164183259,
+        "__scores": 7122.57421875,
+        "grid_operation_cost": 7122.57421875
+    },
+    {
+        "LinesCapacityReward": 0.6504521523752521,
+        "__scores": 7229.14306640625,
+        "grid_operation_cost": 7229.14306640625
+    },
+    {
+        "LinesCapacityReward": 0.6490412886424731,
+        "__scores": 7249.16259765625,
+        "grid_operation_cost": 7249.16259765625
+    },
+    {
+        "LinesCapacityReward": 0.647081272576445,
+        "__scores": 7349.14892578125,
+        "grid_operation_cost": 7349.14892578125
+    },
+    {
+        "LinesCapacityReward": 0.6454846782069052,
+        "__scores": 7489.734375,
+        "grid_operation_cost": 7489.734375
+    },
+    {
+        "LinesCapacityReward": 0.6450715834094632,
+        "__scores": 7630.765625,
+        "grid_operation_cost": 7630.765625
+    },
+    {
+        "LinesCapacityReward": 0.6433800728090349,
+        "__scores": 7804.896484375,
+        "grid_operation_cost": 7804.896484375
+    },
+    {
+        "LinesCapacityReward": 0.6435342193931662,
+        "__scores": 7816.12109375,
+        "grid_operation_cost": 7816.12109375
+    },
+    {
+        "LinesCapacityReward": 0.6410845684748825,
+        "__scores": 7848.4296875,
+        "grid_operation_cost": 7848.4296875
+    },
+    {
+        "LinesCapacityReward": 0.6403350830078125,
+        "__scores": 7722.09326171875,
+        "grid_operation_cost": 7722.09326171875
+    },
+    {
+        "LinesCapacityReward": 0.6392759507702244,
+        "__scores": 7693.55517578125,
+        "grid_operation_cost": 7693.55517578125
+    },
+    {
+        "LinesCapacityReward": 0.6382741210281209,
+        "__scores": 7497.80859375,
+        "grid_operation_cost": 7497.80859375
+    },
+    {
+        "LinesCapacityReward": 0.6389078940114667,
+        "__scores": 7487.5517578125,
+        "grid_operation_cost": 7487.5517578125
+    },
+    {
+        "LinesCapacityReward": 0.6382554167060442,
+        "__scores": 7368.54296875,
+        "grid_operation_cost": 7368.54296875
+    },
+    {
+        "LinesCapacityReward": 0.6386731875840054,
+        "__scores": 7251.43212890625,
+        "grid_operation_cost": 7251.43212890625
+    },
+    {
+        "LinesCapacityReward": 0.6392541700793851,
+        "__scores": 7157.8564453125,
+        "grid_operation_cost": 7157.8564453125
+    },
+    {
+        "LinesCapacityReward": 0.6406259844380041,
+        "__scores": 7211.64208984375,
+        "grid_operation_cost": 7211.64208984375
+    },
+    {
+        "LinesCapacityReward": 0.641285639937206,
+        "__scores": 7151.8515625,
+        "grid_operation_cost": 7151.8515625
+    },
+    {
+        "LinesCapacityReward": 0.6419679785287509,
+        "__scores": 7107.029296875,
+        "grid_operation_cost": 7107.029296875
+    },
+    {
+        "LinesCapacityReward": 0.64289060202978,
+        "__scores": 7052.4052734375,
+        "grid_operation_cost": 7052.4052734375
+    },
+    {
+        "LinesCapacityReward": 0.6434091957666541,
+        "__scores": 7066.58056640625,
+        "grid_operation_cost": 7066.58056640625
+    },
+    {
+        "LinesCapacityReward": 0.6418503792055192,
+        "__scores": 7053.33349609375,
+        "grid_operation_cost": 7053.33349609375
+    },
+    {
+        "LinesCapacityReward": 0.6422359917753486,
+        "__scores": 7100.94580078125,
+        "grid_operation_cost": 7100.94580078125
+    },
+    {
+        "LinesCapacityReward": 0.6444465883316532,
+        "__scores": 7076.68310546875,
+        "grid_operation_cost": 7076.68310546875
+    },
+    {
+        "LinesCapacityReward": 0.64436766921833,
+        "__scores": 7124.51806640625,
+        "grid_operation_cost": 7124.51806640625
+    },
+    {
+        "LinesCapacityReward": 0.645093733264554,
+        "__scores": 7095.41552734375,
+        "grid_operation_cost": 7095.41552734375
+    },
+    {
+        "LinesCapacityReward": 0.6449523433562249,
+        "__scores": 7162.572265625,
+        "grid_operation_cost": 7162.572265625
+    },
+    {
+        "LinesCapacityReward": 0.6443335420341902,
+        "__scores": 7186.2421875,
+        "grid_operation_cost": 7186.2421875
+    },
+    {
+        "LinesCapacityReward": 0.6461073762627059,
+        "__scores": 7328.794921875,
+        "grid_operation_cost": 7328.794921875
+    },
+    {
+        "LinesCapacityReward": 0.6465732615481141,
+        "__scores": 7336.4375,
+        "grid_operation_cost": 7336.4375
+    },
+    {
+        "LinesCapacityReward": 0.6456234019289735,
+        "__scores": 7399.9970703125,
+        "grid_operation_cost": 7399.9970703125
+    },
+    {
+        "LinesCapacityReward": 0.6468779861286122,
+        "__scores": 7432.4697265625,
+        "grid_operation_cost": 7432.4697265625
+    },
+    {
+        "LinesCapacityReward": 0.6467194916099631,
+        "__scores": 7412.22314453125,
+        "grid_operation_cost": 7412.22314453125
+    },
+    {
+        "LinesCapacityReward": 0.6465609560730637,
+        "__scores": 7510.33349609375,
+        "grid_operation_cost": 7510.33349609375
+    },
+    {
+        "LinesCapacityReward": 0.646360335811492,
+        "__scores": 7561.51708984375,
+        "grid_operation_cost": 7561.51708984375
+    },
+    {
+        "LinesCapacityReward": 0.646868141748572,
+        "__scores": 7452.41455078125,
+        "grid_operation_cost": 7452.41455078125
+    },
+    {
+        "LinesCapacityReward": 0.6471245878486224,
+        "__scores": 7547.724609375,
+        "grid_operation_cost": 7547.724609375
+    },
+    {
+        "LinesCapacityReward": 0.6491460492534022,
+        "__scores": 7421.52001953125,
+        "grid_operation_cost": 7421.52001953125
+    },
+    {
+        "LinesCapacityReward": 0.6482452884797127,
+        "__scores": 7483.7919921875,
+        "grid_operation_cost": 7483.7919921875
+    },
+    {
+        "LinesCapacityReward": 0.6478497905115927,
+        "__scores": 7361.654296875,
+        "grid_operation_cost": 7361.654296875
+    },
+    {
+        "LinesCapacityReward": 0.649051994405767,
+        "__scores": 7307.34423828125,
+        "grid_operation_cost": 7307.34423828125
+    },
+    {
+        "LinesCapacityReward": 0.6487979683824765,
+        "__scores": 7209.8583984375,
+        "grid_operation_cost": 7209.8583984375
+    },
+    {
+        "LinesCapacityReward": 0.649909398889029,
+        "__scores": 7041.43408203125,
+        "grid_operation_cost": 7041.43408203125
+    },
+    {
+        "LinesCapacityReward": 0.6497340868878109,
+        "__scores": 6947.94140625,
+        "grid_operation_cost": 6947.94140625
+    },
+    {
+        "LinesCapacityReward": 0.6510414205571657,
+        "__scores": 6753.4833984375,
+        "grid_operation_cost": 6753.4833984375
+    },
+    {
+        "LinesCapacityReward": 0.6525127451906922,
+        "__scores": 6688.75146484375,
+        "grid_operation_cost": 6688.75146484375
+    },
+    {
+        "LinesCapacityReward": 0.6552941106980847,
+        "__scores": 6556.1279296875,
+        "grid_operation_cost": 6556.1279296875
+    },
+    {
+        "LinesCapacityReward": 0.6565038414411648,
+        "__scores": 6625.26171875,
+        "grid_operation_cost": 6625.26171875
+    },
+    {
+        "LinesCapacityReward": 0.6589458834740424,
+        "__scores": 6531.2998046875,
+        "grid_operation_cost": 6531.2998046875
+    },
+    {
+        "LinesCapacityReward": 0.6579862820204868,
+        "__scores": 6572.6220703125,
+        "grid_operation_cost": 6572.6220703125
+    },
+    {
+        "LinesCapacityReward": 0.6594737473354545,
+        "__scores": 6603.5029296875,
+        "grid_operation_cost": 6603.5029296875
+    },
+    {
+        "LinesCapacityReward": 0.6593115816834153,
+        "__scores": 6655.8681640625,
+        "grid_operation_cost": 6655.8681640625
+    },
+    {
+        "LinesCapacityReward": 0.6591933875955561,
+        "__scores": 6644.490234375,
+        "grid_operation_cost": 6644.490234375
+    },
+    {
+        "LinesCapacityReward": 0.6591825792866369,
+        "__scores": 6708.21630859375,
+        "grid_operation_cost": 6708.21630859375
+    },
+    {
+        "LinesCapacityReward": 0.6581677057409799,
+        "__scores": 6738.97705078125,
+        "grid_operation_cost": 6738.97705078125
+    },
+    {
+        "LinesCapacityReward": 0.6565548681443738,
+        "__scores": 6849.42578125,
+        "grid_operation_cost": 6849.42578125
+    },
+    {
+        "LinesCapacityReward": 0.6544929832540534,
+        "__scores": 6875.2060546875,
+        "grid_operation_cost": 6875.2060546875
+    },
+    {
+        "LinesCapacityReward": 0.651216773576634,
+        "__scores": 6898.4521484375,
+        "grid_operation_cost": 6898.4521484375
+    },
+    {
+        "LinesCapacityReward": 0.6482447142242104,
+        "__scores": 6995.91943359375,
+        "grid_operation_cost": 6995.91943359375
+    },
+    {
+        "LinesCapacityReward": 0.64706785960864,
+        "__scores": 7046.10205078125,
+        "grid_operation_cost": 7046.10205078125
+    },
+    {
+        "LinesCapacityReward": 0.645122774185673,
+        "__scores": 7230.27001953125,
+        "grid_operation_cost": 7230.27001953125
+    },
+    {
+        "LinesCapacityReward": 0.6442753371372019,
+        "__scores": 7269.75244140625,
+        "grid_operation_cost": 7269.75244140625
+    },
+    {
+        "LinesCapacityReward": 0.6411790745232695,
+        "__scores": 7406.7783203125,
+        "grid_operation_cost": 7406.7783203125
+    },
+    {
+        "LinesCapacityReward": 0.6391690982285366,
+        "__scores": 7443.5244140625,
+        "grid_operation_cost": 7443.5244140625
+    },
+    {
+        "LinesCapacityReward": 0.6380909335228705,
+        "__scores": 7599.62255859375,
+        "grid_operation_cost": 7599.62255859375
+    },
+    {
+        "LinesCapacityReward": 0.6368125997563845,
+        "__scores": 7649.4609375,
+        "grid_operation_cost": 7649.4609375
+    },
+    {
+        "LinesCapacityReward": 0.6380033595587619,
+        "__scores": 7567.9853515625,
+        "grid_operation_cost": 7567.9853515625
+    },
+    {
+        "LinesCapacityReward": 0.635619624968498,
+        "__scores": 7528.44287109375,
+        "grid_operation_cost": 7528.44287109375
+    },
+    {
+        "LinesCapacityReward": 0.6363136537613407,
+        "__scores": 7420.564453125,
+        "grid_operation_cost": 7420.564453125
+    },
+    {
+        "LinesCapacityReward": 0.6372601909022177,
+        "__scores": 7297.74951171875,
+        "grid_operation_cost": 7297.74951171875
+    },
+    {
+        "LinesCapacityReward": 0.637887934202789,
+        "__scores": 7231.8115234375,
+        "grid_operation_cost": 7231.8115234375
+    },
+    {
+        "LinesCapacityReward": 0.6415695272466189,
+        "__scores": 7164.01318359375,
+        "grid_operation_cost": 7164.01318359375
+    },
+    {
+        "LinesCapacityReward": 0.6402036605342742,
+        "__scores": 7042.69921875,
+        "grid_operation_cost": 7042.69921875
+    },
+    {
+        "LinesCapacityReward": 0.632315104716533,
+        "__scores": 6913.34765625,
+        "grid_operation_cost": 6913.34765625
+    },
+    {
+        "LinesCapacityReward": 0.6253073202597129,
+        "__scores": 6591.65576171875,
+        "grid_operation_cost": 6591.65576171875
+    },
+    {
+        "LinesCapacityReward": 0.6275920971019848,
+        "__scores": 7765.16259765625,
+        "grid_operation_cost": 7765.16259765625
+    },
+    {
+        "LinesCapacityReward": 0.0,
+        "__scores": 1.0,
+        "grid_operation_cost": 1.0
+    }
+]

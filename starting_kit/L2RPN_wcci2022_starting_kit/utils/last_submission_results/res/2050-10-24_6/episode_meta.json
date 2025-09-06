@@ -1,0 +1,11 @@
+{
+    "agent_seed": 544558006,
+    "backend_type": "LightSimBackend_input_data_local",
+    "chronics_max_timestep": "2017",
+    "chronics_path": "/starting_kit/L2RPN_wcci2022_starting_kit/input_data_local/chronics/2050-10-24_6",
+    "cumulative_reward": 542775.5625,
+    "env_seed": 1489606676,
+    "env_type": "Environment_input_data_local",
+    "grid_path": "/starting_kit/L2RPN_wcci2022_starting_kit/input_data_local/grid.json",
+    "nb_timestep_played": 2017
+}
