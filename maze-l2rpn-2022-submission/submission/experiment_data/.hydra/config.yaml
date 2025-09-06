@@ -1,0 +1,116 @@
+env:
+  _target_: maze_l2rpn.env.maze_env.Grid2OpEnvironment
+  core_env:
+    _target_: maze_l2rpn.env.core_env.Grid2OpCoreEnvironment
+    power_grid: l2rpn_wcci_2022
+    difficulty: competition
+    chronics_config:
+      id_selection: null
+      fast_forward: null
+      from_file: null
+    reward:
+      _target_: grid2op.Reward.LinesCapacityReward.LinesCapacityReward
+      rewards: []
+    reward_aggregator:
+      _target_: maze_l2rpn.reward.default.RewardAggregator
+      reward_scale: 1.0
+  action_conversion:
+  - _target_: maze_l2rpn.space_interfaces.action_conversion.dict_unitary.ActionConversion
+    action_selection_vector_dump: top_2000_actions_v1.npy
+  observation_conversion:
+  - _target_: maze_l2rpn.space_interfaces.observation_conversion.dict_features.ObservationConversion
+    fix_links_for_n_sub_steps: ~
+    mask_out_storage_connections: true
+wrappers:
+  maze_l2rpn.wrappers.joint_redispatching_controller_wrapper.JointRedispatchingControllerWrapper:
+    # For docs, see redispatching_controller/ce_redispatching_controller.yaml in l2rpn-challenge
+    redispatching_controller:
+      _target_: maze_l2rpn.agents.ce_redispatching_controller.CERedispatchingController
+      optimizer:
+        _target_: maze_l2rpn.agents.ce_optimizer.ce_optimizer.CEOptimizer
+        population_size: 40
+        rho: 0.15
+        n_generations: 10
+        smoothing: 0.75
+      problem:
+        _target_: maze_l2rpn.agents.ce_optimizer.ce_redispatching_problem.CERedispatchingProblem
+        redispatch: true
+        storage: true
+        curtail: true
+        max_forecasting_error: 35
+        rho_danger_base: 0.95
+        contingencies:
+          - [[LINE, 175]]
+      logging_level: warning
+    contingency_redispatching_controller:
+      _target_: maze_l2rpn.agents.knn_redispatching_controller.KNNRedispatchingController
+      input_dir: redispatching_CA_KNN/
+    joint_action_type: concat
+    action_candidates: 5
+  maze_l2rpn.wrappers.l2rpn_observation_stack_wrapper.L2RPNObservationStackWrapper:
+    stack_config:
+      - observation: features
+        keep_original: false
+        tag: ~
+        delta: false
+        stack_steps: 2
+      - observation: topology
+        keep_original: false
+        tag: ~
+        delta: false
+        stack_steps: 2
+  maze_l2rpn.wrappers.safe_sate_skipping_wrapper.SafeStateSkippingWrapper: {}
+  maze_l2rpn.wrappers.unitary_action_masking_wrapper.UnitaryActionMaskingWrapper:
+    mask_out_illegal_actions: true
+    check_topo_change: true
+  maze.core.wrappers.observation_normalization.observation_normalization_wrapper.ObservationNormalizationWrapper:
+    default_strategy: maze.core.wrappers.observation_normalization.normalization_strategies.mean_zero_std_one.MeanZeroStdOneObservationNormalizationStrategy
+    default_strategy_config:
+      clip_range: [~, ~]
+      axis: ~
+    sampling_policy:
+      _target_: maze.core.agent.random_policy.RandomPolicy
+    statistics_dump: obs_norm_statistics.pkl
+    default_statistics: ~
+    exclude:
+      - action_mask
+      - topology
+      - link_to_set_mask
+      - is_safe_state
+      - n_violations_severe
+      - n_violations_critical
+      - already_selected_actions
+      - already_selected_noop
+    manual_config:
+      features:
+        strategy: maze.core.wrappers.observation_normalization.normalization_strategies.mean_zero_std_one.MeanZeroStdOneObservationNormalizationStrategy
+        strategy_config:
+          clip_range: [-3, 3]
+          axis: [-3, -2]
+  maze.core.wrappers.monitoring_wrapper.MazeEnvMonitoringWrapper:
+    observation_logging: false
+    action_logging: true
+    reward_logging: true
+model:
+  _target_: maze.perception.models.custom_model_composer.CustomModelComposer
+  distribution_mapper_config:
+  - action_space: gym.spaces.Box
+    distribution: maze.distributions.squashed_gaussian.SquashedGaussianProbabilityDistribution
+  policy:
+    _target_: maze.perception.models.policies.ProbabilisticPolicyComposer
+    networks:
+    - _target_: maze_l2rpn.models.actor_unitary.PolicyNet
+      non_lin: torch.nn.ReLU
+      hidden_units:
+      - 512
+      - 512
+    substeps_with_separate_agent_nets: []
+  critic: ~
+log_base_dir: maze-runs
+input_dir: ~
+project:
+  name: l2rpn-challenge
+seeding:
+  env_base_seed: 709676728
+  agent_base_seed: 350642512
+  cudnn_determinism_flag: false
