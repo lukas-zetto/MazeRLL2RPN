@@ -205,3 +205,5 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+starting_kit/L2RPN_wcci2022_starting_kit/submission_*.zip
