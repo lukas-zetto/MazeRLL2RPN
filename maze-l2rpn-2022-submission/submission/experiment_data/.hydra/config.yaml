@@ -2,7 +2,7 @@ env:
   _target_: maze_l2rpn.env.maze_env.Grid2OpEnvironment
   core_env:
     _target_: maze_l2rpn.env.core_env.Grid2OpCoreEnvironment
-    power_grid: l2rpn_wcci_2022
+    power_grid: ieee14
     difficulty: competition
     chronics_config:
       id_selection: null
