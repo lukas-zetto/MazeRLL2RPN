@@ -2,6 +2,7 @@
 #SBATCH --job-name=l2rpn_test          # Job name
 #SBATCH --partition cpu                #Partition
 #SBATCH --nodes=1                      # Number of nodes
+#SBATCH --time=8:00:00
 #SBATCH --ntasks=1                     # Number of tasks
 #SBATCH --cpus-per-task=4              # Number of CPUs
 #SBATCH --mem=16G                      # Memory
