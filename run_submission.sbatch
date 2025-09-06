@@ -8,15 +8,6 @@
 #SBATCH --mem=16G                      # Memory
 #SBATCH --output=slurm-%j.out          # Output log file
 
-# Load Enroot (no pyxis here)
-module load enroot
-
-# Make sure the container image exists locally (if not, pull it)
-if ! enroot list | grep -q l2rpn; then
-    enroot import docker://bdonnot/l2rpn:wcci.2022.1
-    enroot create --name l2rpn bdonnot+l2rpn+wcci.2022.1.sqsh
-fi
-
 # Run inside container with mounted folders
 enroot start --rw \
     -m /home/ka/ka_iai/ka_jp7970/maze_project/starting_kit:/starting_kit \
